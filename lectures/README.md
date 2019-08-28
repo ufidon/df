@@ -29,6 +29,7 @@ Guided study through a complete forensic process with open-source forensics tool
 7. [Comparison of file systems](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
 8. [File Allocation Table](https://en.wikipedia.org/wiki/File_Allocation_Table)
 9. [FAT](https://www.forensicswiki.org/wiki/FAT)
+10. [Manual Analysis of the FAT12 File System](http://alexander.khleuven.be/courses/bs1/fat12/fat12.html)
 10. [OSDEV FAT](https://wiki.osdev.org/FAT)
 11. [Understanding FAT32 Filesystems](https://www.pjrc.com/tech/8051/ide/fat32.html)
 12. [Windows File system info](https://www.ntfs.com/index.html)
