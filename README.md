@@ -5,6 +5,7 @@ course materials and references for its452
 * [ForensicsWiki](http://www.forensicswiki.org/wiki/Main_Page)
 * [Honeynet](https://www.honeynet.org/)
 * [The Honeynet Project](http://old.honeynet.org/)
+* [Corpora of disk images](http://downloads.digitalcorpora.org/corpora/)
 
 
 ## Open-source forensics tools
