@@ -4,6 +4,7 @@ course materials and references for its452
 ## Popular computer forensics websites
 * [ForensicsWiki](http://www.forensicswiki.org/wiki/Main_Page)
 * [Open Source Digital Forensics Conference](https://www.osdfcon.org/)
+* [Linux LEO](https://linuxleo.com/)
 
 
 ## Open-source forensics tools
