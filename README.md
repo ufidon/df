@@ -24,6 +24,7 @@ course materials and references for its452
 * [Digital Forensics Research Workshop Challenges](http://www.dfrws.org)
 * [Hacking case](https://www.cfreds.nist.gov/Hacking_Case.html)
 * [Forensics case](http://www.forensickb.com)
+* [CGsecurity](https://www.cgsecurity.org)
 
 ## Popular operating system websites
 * [OSDEV](https://wiki.osdev.org)
