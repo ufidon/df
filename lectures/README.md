@@ -35,3 +35,5 @@ Guided study through a complete forensic process with open-source forensics tool
 12. [Windows File system info](https://www.ntfs.com/index.html)
 6. [Data recovery](https://en.wikipedia.org/wiki/Data_recovery)
 
+## lecture03: File system
+1. []

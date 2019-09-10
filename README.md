@@ -13,6 +13,9 @@ course materials and references for its452
 * [CAINE Linux](https://www.caine-live.net)
 * [SIFT Workstation](https://digital-forensics.sans.org)
 * [TestDisk and PhotoRecv](https://www.cgsecurity.org/)
+* [Collection of forensics tools I](http://www.e-evidence.info/)
+* [Collection of forensics tools II](http://www.forensics.nl/)
+* [Computer Forensic Tool Testing](http://www.cftt.nist.org/disk_imaging.htm)
 
 ## Digital Forensics images
 * [Honeynet](https://www.honeynet.org/)
