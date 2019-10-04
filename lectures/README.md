@@ -57,3 +57,8 @@ Guided study through a complete forensic process with open-source forensics tool
 1. [Ext2: Second Extended Filesystem (ext2fs) ](https://wiki.osdev.org/Ext2)
 2. [The Second Extended File System](https://www.nongnu.org/ext2-doc/ext2.html)
 2. [ext4 Data Structures and Algorithms](https://www.kernel.org/doc/html/latest/filesystems/ext4/index.html)
+
+### Encrypted disks
+1. [Mount a FileVault Drive Encrypted (FVDE) volume](https://github.com/libyal/libfvde/wiki/Mounting)
+2. [Open Bitlocker Drive on Linux](https://www.ceos3c.com/open-source/open-bitlocker-drive-linux/)
+3. [How To Mount BitLocker-Encrypted Windows Partitions On Linux](https://www.linuxuprising.com/2019/04/how-to-mount-bitlocker-encrypted.html)
