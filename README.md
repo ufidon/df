@@ -19,6 +19,9 @@ course materials and references for its452
 * [Computer Forensic Tool Testing](http://www.cftt.nist.org/disk_imaging.htm)
 * [Porcupine: old tools](http://www.porcupine.org/)
 
+## Free forensics tools
+* [DataDump & DCode](https://www.digital-detective.net/digital-forensic-software/free-tools/)
+
 ## Digital Forensics images
 * [Honeynet](https://www.honeynet.org/)
 * [The Honeynet Project](http://old.honeynet.org/)
