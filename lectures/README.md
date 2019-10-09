@@ -54,6 +54,9 @@ Guided study through a complete forensic process with open-source forensics tool
 14. [MSDN Local File System](https://docs.microsoft.com/en-us/windows/win32/fileio/file-systems)
 
 ### Linux file system: Ext2/3/4
+0. [Ext2 on Wikipedia](https://en.wikipedia.org/wiki/Ext2)
+1. [Ext3 on Wikipedia](https://en.wikipedia.org/wiki/Ext3)
+2. [Ext4 on Wikipedia](https://en.wikipedia.org/wiki/Ext4)
 1. [Ext2: Second Extended Filesystem (ext2fs) ](https://wiki.osdev.org/Ext2)
 2. [The Second Extended File System](https://www.nongnu.org/ext2-doc/ext2.html)
 2. [ext4 Data Structures and Algorithms](https://www.kernel.org/doc/html/latest/filesystems/ext4/index.html)
