@@ -5,6 +5,9 @@ course materials and references for its452
 * [ForensicsWiki](http://www.forensicswiki.org/wiki/Main_Page)
 * [Open Source Digital Forensics Conference](https://www.osdfcon.org/)
 * [Linux LEO](https://linuxleo.com/)
+* [Forensicmag](https://www.forensicmag.com/topics/digital-forensics)
+* [SANS forensics reading room](https://www.sans.org/reading-room/whitepapers/forensics/)
+* [ICCyber conference](http://www.iccyber.org/en/)
 
 
 ## Open-source forensics tools
