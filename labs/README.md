@@ -1,7 +1,7 @@
 # its452 labs
 course materials and references for its452 labs
 
-## lab00: Build environments for computer forensics
+## lab01: Build environments for computer forensics
 
 References:
 * [Popular Computer Forensics Top 21 Tools](https://resources.infosecinstitute.com/computer-forensics-tools)
@@ -11,7 +11,7 @@ References:
 
 
 
-## lab01: Overview of a complete forensic process
+## proj1: Overview of a complete forensic process
 Complete the challenge posted on Honeynet: [scan24](http://old.honeynet.org/scans/scan24/)
 
 References:
@@ -42,3 +42,30 @@ References:
 References:
 1. [Open Source Digital Forensics: The Sleuth Kit & Autopsy](http://sleuthkit.org/)
 2. [Digital Forensics Tool Testing Images](http://dftt.sourceforge.net/)
+
+## lab05: Windows registry
+
+## lab06: 
+
+## lab07: 
+
+## lab08:
+
+## lab09:
+
+## lab10:
+
+## proj2: Network traffic analysis
+
+References:
+1. [3 Steps to Hide Data in an Image Using Steganography](https://www.alpinesecurity.com/blog/3-steps-to-hide-data-in-an-image-using-steganography)
+2. [Stegdetect demo](https://www.rcbc.edu/files/PDFFiles/service-learning/bdd/Session%201_StegDetect.pdf)
+3. [Stegdetect on Github](https://github.com/abeluck/stegdetect)
+3. [jphs: jphide & seek steganography tools ](https://github.com/h3xx/jphs)
+4. [Ubuntu outguess](http://manpages.ubuntu.com/manpages/disco/man1/outguess.1.html)
+5. [Archived outguess](http://web.archive.org/web/20150415220609/http://www.outguess.org/download.php)
+6. [outguess on Github](https://github.com/resurrecting-open-source-projects/outguess)
+2. [Honeynet Scan of the Month 26 with TSK](http://www.sleuthkit.org/case/sotm_26/index.html)
+3. [Rhino Hunt](https://www.cfreds.nist.gov/dfrws/Rhino_Hunt.html)
+4. [Rhino Hunt demo](https://makemyday.io/post/rhino-hunt-part-1/)
+5. [List of STEGANOGRAPHY SOFTWARE](http://www.jjtc.com/Steganography/tools.html)

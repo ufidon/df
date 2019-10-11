@@ -8,6 +8,9 @@ course materials and references for its452
 * [Forensicmag](https://www.forensicmag.com/topics/digital-forensics)
 * [SANS forensics reading room](https://www.sans.org/reading-room/whitepapers/forensics/)
 * [ICCyber conference](http://www.iccyber.org/en/)
+* [Old DFRWS](http://old.dfrws.org/index.shtml)
+* [DFRWS](http://dfrws.org/)
+* [AboutDFIR](https://aboutdfir.com/)
 
 
 ## Open-source forensics tools
