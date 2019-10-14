@@ -26,6 +26,12 @@ course materials and references for its452
 * [Eric Zimmerman's tools](https://ericzimmerman.github.io)
 * [Porcupine: old tools](http://www.porcupine.org/)
 
+## Recovery tools
+* Password recovery tools
+  * [ophcrack](https://ophcrack.sourceforge.io/) 
+* File recovery tools
+  * [bulk extractor](http://downloads.digitalcorpora.org/downloads/bulk_extractor/)
+
 ## Free forensics tools
 * [DataDump & DCode](https://www.digital-detective.net/digital-forensic-software/free-tools/)
 
