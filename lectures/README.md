@@ -110,6 +110,8 @@ Guided study through a complete forensic process with open-source forensics tool
 1. Data recovery
   * [Data recovery on Wikipedia](https://en.wikipedia.org/wiki/Data_recovery)
   * [File carving on Wikipedia](https://en.wikipedia.org/wiki/File_carving)
+  * [Data Recovery on Ubuntu help](https://help.ubuntu.com/community/DataRecovery)
+  * [Data Recovery on ArchLinux wiki](https://wiki.archlinux.org/index.php/File_recovery)
   * [bulk extractor on Github](https://github.com/simsong/bulk_extractor)
   * [bulk extractor on Digitalcorpora](http://downloads.digitalcorpora.org/downloads/bulk_extractor/)
   * [bulk_extractor 1.5 overview bySimson L. Garfinkel](http://downloads.digitalcorpora.org/downloads/bulk_extractor/2014-07-17_BE15.pdf)
@@ -122,5 +124,7 @@ Guided study through a complete forensic process with open-source forensics tool
   * [Cain and Abel \(software\) on Wikipedia](https://en.wikipedia.org/wiki/Cain_and_Abel_\(software\))
   * [Hashcat on Wikipedia](https://en.wikipedia.org/wiki/Hashcat)
   * [Project 12: Cracking Windows Password Hashes with Hashcat on Samclass](https://samsclass.info/123/proj14/123p12winhash.htm)
+  * [Ubuntu security](https://help.ubuntu.com/community/CategorySecurity)
 3. Steganography
   * [Steganography on Wikipedia](https://en.wikipedia.org/wiki/Steganography)
+  * [stego-toolkit collected by Dominic](https://github.com/DominicBreuker/stego-toolkit)
