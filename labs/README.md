@@ -52,6 +52,8 @@ References:
 4. [cfreds-2017-winreg](https://www.cfreds.nist.gov/winreg/cfreds-2017-winreg/cfreds-2017-winreg.html)
 
 ## lab06: 
+References:
+1. [Honeynet Scan of the Month 26 with TSK](http://www.sleuthkit.org/case/sotm_26/index.html)
 
 ## lab07: 
 
@@ -71,7 +73,7 @@ References:
 4. [Ubuntu outguess](http://manpages.ubuntu.com/manpages/disco/man1/outguess.1.html)
 5. [Archived outguess](http://web.archive.org/web/20150415220609/http://www.outguess.org/download.php)
 6. [outguess on Github](https://github.com/resurrecting-open-source-projects/outguess)
-2. [Honeynet Scan of the Month 26 with TSK](http://www.sleuthkit.org/case/sotm_26/index.html)
+
 3. [Rhino Hunt](https://www.cfreds.nist.gov/dfrws/Rhino_Hunt.html)
 4. [Rhino Hunt demo](https://makemyday.io/post/rhino-hunt-part-1/)
 5. [List of STEGANOGRAPHY SOFTWARE](http://www.jjtc.com/Steganography/tools.html)
