@@ -128,3 +128,38 @@ Guided study through a complete forensic process with open-source forensics tool
 3. Steganography
   * [Steganography on Wikipedia](https://en.wikipedia.org/wiki/Steganography)
   * [stego-toolkit collected by Dominic](https://github.com/DominicBreuker/stego-toolkit)
+
+## Module06: Operating systems
+### Windows
+* [Windows forensics by Calpoly](https://cci.calpoly.edu/2019-digital-forensics-downloads)
+
+### MacOS
+
+
+### Linux
+
+### Android
+* [Android forensics by Calpoly](https://cci.calpoly.edu/2019-digital-forensics-downloads)
+
+### iOS
+
+
+## Module07: Network
+### Network traffic
+
+
+### Network devices: 
+1. switches, routers, network adapters
+2. clients, servers, cloud, iot
+
+
+### Network applications: browsers, websites, emails, online storage, message apps 
+
+## Module08: Live systems
+### Memory
+
+
+### Malware
+
+
+## Module09: DFIR certifications
