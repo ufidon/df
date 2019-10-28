@@ -181,6 +181,8 @@ Tools
 * [PEframe](https://github.com/guelfoweb/peframe)
 * [DLL Export Viewer](https://www.nirsoft.net/utils/dll_export_viewer.html)
 * [UPX - the Ultimate Packer for eXecutables](https://upx.github.io/)
+* [ClamAV](https://www.clamav.net/)
+* [yara](https://virustotal.github.io/yara/)
 
 
 
