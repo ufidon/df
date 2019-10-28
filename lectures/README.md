@@ -169,6 +169,10 @@ Concepts
   * [Comparison of executable file formats](https://en.wikipedia.org/wiki/Comparison_of_executable_file_formats)
   * [UPX](https://en.wikipedia.org/wiki/UPX)
 
+5. System Restore Points
+  * [System restore](https://en.wikipedia.org/wiki/System_Restore)
+  * [Windows Preinstallation Environment](https://en.wikipedia.org/wiki/Windows_Preinstallation_Environment)
+
 Tools
 * [Evtx Explorer/EvtxECmd](https://ericzimmerman.github.io/#!index.md)
 * [Windows Event Log Viewer](https://tzworks.net/prototype_page.php?proto_id=4)
