@@ -141,7 +141,48 @@ Tools
 
 ## Module06: Operating systems
 ### Windows
-* [Windows forensics by Calpoly](https://cci.calpoly.edu/2019-digital-forensics-downloads)
+Concepts
+1. Event logs
+  * [List of Microsoft Windows components](https://en.wikipedia.org/wiki/List_of_Microsoft_Windows_components)
+  * [Microsoft Management Console](https://en.wikipedia.org/wiki/Microsoft_Management_Console)
+  * [Windows Event Log](https://docs.microsoft.com/en-us/windows/win32/eventlog/event-logging)
+  * [Windows Event Viewer Log (EVT) format](https://github.com/libyal/libevt/blob/master/documentation/Windows%20Event%20Log%20\(EVT\)%20format.asciidoc)
+  * [EVTX and Windows EventLogging](https://www.sans.org/reading-room/whitepapers/logging/evtx-windows-event-logging-32949)
+  * [Windows forensics by Calpoly](https://cci.calpoly.edu/2019-digital-forensics-downloads)
+
+2. Prefetched files
+  * [Prefetching](https://en.wikipedia.org/wiki/Prefetching)
+  * [Windows prefetcher](https://en.wikipedia.org/wiki/Prefetcher)
+  * [prefetch folder](https://searchenterprisedesktop.techtarget.com/definition/prefetch-folder-PF)
+  * [Prefetch Forensics](https://infosecuritygeek.com/prefetch-forensics/)
+  * [Windows 10, 8 & 7: Enable or Disable Superfetch](https://www.technipages.com/windows-enable-disable-superfetch)
+
+3. Shortcut files
+  * [File Shortcut ](https://en.wikipedia.org/wiki/Shortcut_\(computing\))
+  * [Windows Shortcut File format specification on Github](https://github.com/libyal/liblnk/blob/master/documentation/Windows%20Shortcut%20File%20\(LNK\)%20format.asciidoc)
+  * [Windows Shortcut File format specification on DFIR](https://www.dfir.training/windows/lnk/116-windows-shortcut-file-lnk-format/file)
+  * [The meaning of linkfile in forensic examinations](http://computerforensics.parsonage.co.uk/downloads/TheMeaningofLIFE.pdf)
+4. Windows executables
+  * [Portable Executable](https://en.wikipedia.org/wiki/Portable_Executable)
+  * [PE Format](https://docs.microsoft.com/en-us/windows/win32/debug/pe-format)
+  * [Common Object File Format](https://en.wikipedia.org/wiki/COFF)
+  * [Comparison of executable file formats](https://en.wikipedia.org/wiki/Comparison_of_executable_file_formats)
+  * [UPX](https://en.wikipedia.org/wiki/UPX)
+
+Tools
+* [Evtx Explorer/EvtxECmd](https://ericzimmerman.github.io/#!index.md)
+* [Windows Event Log Viewer](https://tzworks.net/prototype_page.php?proto_id=4)
+* [MyEventViewer ](https://www.nirsoft.net/utils/my_event_viewer.html)
+* [WinPrefetchView](https://www.nirsoft.net/utils/win_prefetch_view.html)
+* [ShortcutsMan](https://www.nirsoft.net/utils/shman.html)
+* [Five PE Analysis Tools Worth Looking At](https://blog.malwarebytes.com/threat-analysis/2014/05/five-pe-analysis-tools-worth-looking-at/)
+* [PE Tools](https://petoolse.github.io/petools/)
+* [pev the PE file analysis toolkit](http://pev.sourceforge.net/)
+* [PEframe](https://github.com/guelfoweb/peframe)
+* [DLL Export Viewer](https://www.nirsoft.net/utils/dll_export_viewer.html)
+* [UPX - the Ultimate Packer for eXecutables](https://upx.github.io/)
+
+
 
 ### MacOS
 
