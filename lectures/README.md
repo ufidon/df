@@ -31,6 +31,8 @@ Guided study through a complete forensic process with open-source forensics tool
 
 ## Module03: File system
 ### Windows file system: FAT & NTFS
+Concepts
+
 6. [File system](https://en.wikipedia.org/wiki/File_system)
 7. [Comparison of file systems](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
 8. [File Allocation Table](https://en.wikipedia.org/wiki/File_Allocation_Table)
@@ -53,6 +55,10 @@ Guided study through a complete forensic process with open-source forensics tool
 13. [NTFS file system intro](http://itc.upt.al/_opsys/ntfs%20file%20system.pdf)
 14. [MSDN Local File System](https://docs.microsoft.com/en-us/windows/win32/fileio/file-systems)
 
+Tools
+1. [fatback](https://github.com/gaul/fatback)
+
+
 ### Linux file system: Ext2/3/4
 0. [Ext2 on Wikipedia](https://en.wikipedia.org/wiki/Ext2)
 1. [Ext3 on Wikipedia](https://en.wikipedia.org/wiki/Ext3)
@@ -70,6 +76,7 @@ Guided study through a complete forensic process with open-source forensics tool
 * Concepts
   * [Windows registry on Wikipedia](https://en.wikipedia.org/wiki/Windows_Registry)
   * [Windows registry on MSDN](https://docs.microsoft.com/en-us/windows/win32/sysinfo/registry)
+  * [The Internal Structure of the Windows Registry](http://amnesia.gtisc.gatech.edu/~moyix/suzibandit.ltd.uk/MSc/)
 * Tools
   * [Windows Sysinternals](https://docs.microsoft.com/en-us/sysinternals/)
     * [Regmon](https://docs.microsoft.com/en-us/sysinternals/downloads/regmon)
@@ -80,6 +87,9 @@ Guided study through a complete forensic process with open-source forensics tool
   * [Registry editor](https://wiki.winehq.org/Regedit)
   * [Windows Registry Tools on NirSoft](https://www.nirsoft.net/windows_registry_tools.html)
   * [Autopsy 3rd Party Modules: Windows Registry Ingest Module](https://wiki.sleuthkit.org/index.php?title=Autopsy_3rd_Party_Modules)
+  * [regslack](https://github.com/keydet89/Tools/blob/master/source/regslack.pl)
+  * [RegRipper](https://github.com/keydet89/RegRipper2.8)
+  * [Parse::Win32Registry](https://metacpan.org/pod/Parse::Win32Registry)
 * Tips
   * [Windows 10 Registry Tweaks](https://technicalustad.com/a-complete-guide-to-windows-10-registry-tweaks/)
   * [Collection of Windows 10 Hidden Secret Registry Tweaks](https://www.askvg.com/collection-of-windows-10-hidden-secret-registry-tweaks/)

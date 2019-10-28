@@ -11,6 +11,7 @@ course materials and references for its452
 * [Old DFRWS](http://old.dfrws.org/index.shtml)
 * [DFRWS](http://dfrws.org/)
 * [AboutDFIR](https://aboutdfir.com/)
+* [binary foray](https://binaryforay.blogspot.com/)
 
 
 ## Open-source forensics tools
