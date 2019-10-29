@@ -148,7 +148,7 @@ Concepts
   * [Windows Event Log](https://docs.microsoft.com/en-us/windows/win32/eventlog/event-logging)
   * [Windows Event Viewer Log (EVT) format](https://github.com/libyal/libevt/blob/master/documentation/Windows%20Event%20Log%20\(EVT\)%20format.asciidoc)
   * [EVTX and Windows EventLogging](https://www.sans.org/reading-room/whitepapers/logging/evtx-windows-event-logging-32949)
-  * [Windows forensics by Calpoly](https://cci.calpoly.edu/2019-digital-forensics-downloads)
+
 
 2. Prefetched files
   * [Prefetching](https://en.wikipedia.org/wiki/Prefetching)

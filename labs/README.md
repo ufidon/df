@@ -59,6 +59,8 @@ References:
 1. [Honeynet Scan of the Month 26 with TSK](http://www.sleuthkit.org/case/sotm_26/index.html)
 
 ## lab07: 
+References:
+1. [Windows forensics by Calpoly](https://cci.calpoly.edu/2019-digital-forensics-downloads)
 
 ## lab08:
 
