@@ -198,6 +198,11 @@ Concepts
   * [Windows Forensics: analysis of Recycle bin artifacts](https://www.andreafortuna.org/2019/09/26/windows-forensics-analysis-of-recycle-bin-artifacts/)
 
 7. Printer track
+  * [Print Spooler](https://docs.microsoft.com/en-us/windows/win32/printdocs/print-spooler)
+  * [Clear Print Queue In Windows 10, 8, 7](https://www.techsupportall.com/solved-how-to-clean-printer-spool-queue-clean-print-spool-fixit/)
+  * [Documents and Printing](https://docs.microsoft.com/en-us/windows/win32/printdocs/documents-and-printing)
+  * [Printer driver design guide](https://docs.microsoft.com/en-us/windows-hardware/drivers/print/)
+  * [How to Fix a Print Spooler](https://www.wikihow.com/Fix-a-Print-Spooler)
 
 Tools
 * [Evtx Explorer/EvtxECmd](https://ericzimmerman.github.io/#!index.md)
@@ -208,6 +213,7 @@ Tools
 * [JumpListsView](https://www.nirsoft.net/utils/jump_lists_view.html)
 * [JumpLister](https://github.com/woanware/JumpLister)
 * [Rifiuti2 - Windows Recycle Bin Analysis Tool](https://abelcheung.github.io/rifiuti2/)
+* [SPL - Windows Spool File Format](https://www.undocprint.org/formats/winspool/spl)
 * [Five PE Analysis Tools Worth Looking At](https://blog.malwarebytes.com/threat-analysis/2014/05/five-pe-analysis-tools-worth-looking-at/)
 * [PE Tools](https://petoolse.github.io/petools/)
 * [pev the PE file analysis toolkit](http://pev.sourceforge.net/)
