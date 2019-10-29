@@ -5,6 +5,7 @@ course materials and references for its452
 * [ForensicsWiki](http://www.forensicswiki.org/wiki/Main_Page)
 * [Open Source Digital Forensics Conference](https://www.osdfcon.org/)
 * [Linux LEO](https://linuxleo.com/)
+* [California Cybersecurity Institute](https://cci.calpoly.edu/)
 * [Forensicmag](https://www.forensicmag.com/topics/digital-forensics)
 * [SANS forensics reading room](https://www.sans.org/reading-room/whitepapers/forensics/)
 * [ICCyber conference](http://www.iccyber.org/en/)
@@ -17,6 +18,7 @@ course materials and references for its452
 ## Open-source forensics tools
 * [Autopsy & Sleuth](http://sleuthkit.org/)
 * [Autopsy 3rd Party Module Repository](https://github.com/sleuthkit/autopsy_addon_modules)
+* [NirSoft](http://www.nirsoft.net/)
 * [Kali Linux](https://www.kali.org)
 * [CAINE Linux](https://www.caine-live.net)
 * [SIFT Workstation](https://digital-forensics.sans.org)

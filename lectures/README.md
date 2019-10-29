@@ -46,7 +46,7 @@ Concepts
 4. [Microsoft Extensible Firmware Initiative FAT32 File System Specification](https://staff.washington.edu/dittrich/misc/fatgen103.pdf)
 6. [Data recovery](https://en.wikipedia.org/wiki/Data_recovery)
 7. [Microsoft NTFS](https://docs.microsoft.com/en-us/windows-server/storage/file-server/ntfs-overview)
-8. [MS Local File Systems](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/legacy/aa364407\(v%3Dvs.85\)
+8. [MS Local File Systems](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/legacy/aa364407\(v%3Dvs.85\))
 8. [MSDN File System Functionality Comparison](https://docs.microsoft.com/en-us/windows/win32/fileio/filesystem-functionality-comparison)
 9. [NTFS Documentation](http://dubeyko.com/development/FileSystems/NTFS/ntfsdoc.pdf)
 10. [Open Source: NTFS-3G](https://www.tuxera.com/community/open-source-ntfs-3g/)
@@ -162,6 +162,13 @@ Concepts
   * [Windows Shortcut File format specification on Github](https://github.com/libyal/liblnk/blob/master/documentation/Windows%20Shortcut%20File%20\(LNK\)%20format.asciidoc)
   * [Windows Shortcut File format specification on DFIR](https://www.dfir.training/windows/lnk/116-windows-shortcut-file-lnk-format/file)
   * [The meaning of linkfile in forensic examinations](http://computerforensics.parsonage.co.uk/downloads/TheMeaningofLIFE.pdf)
+
+3. Jump lists
+  * [Adding items to a Jump List dynamically](https://msdn.microsoft.com/en-us/ie/gg491724\(v=vs.94\))
+  * [JumpList Class](https://docs.microsoft.com/en-us/dotnet/api/system.windows.shell.jumplist?view=netframework-4.8)
+  * [Create, Edit, Clear or Disable Jump Lists in Windows](https://www.raymond.cc/blog/clear-and-disable-jump-lists-in-windows-7/)
+  * [Windows 10 Jump List Forensics](https://www.blackbagtech.com/blog/windows-10-jump-list-forensics/)
+
 4. Windows executables
   * [Portable Executable](https://en.wikipedia.org/wiki/Portable_Executable)
   * [PE Format](https://docs.microsoft.com/en-us/windows/win32/debug/pe-format)
@@ -172,6 +179,8 @@ Concepts
 5. System Restore Points
   * [System restore](https://en.wikipedia.org/wiki/System_Restore)
   * [Windows Preinstallation Environment](https://en.wikipedia.org/wiki/Windows_Preinstallation_Environment)
+  * [Restore Point Forensics](https://www.stevebunting.org/udpd4n6/forensics/restorepoints.htm)
+  * [Forensic Analysis of System Restore Points in Microsoft Windows XP](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.84.4474&rep=rep1&type=pdf)
 
 Tools
 * [Evtx Explorer/EvtxECmd](https://ericzimmerman.github.io/#!index.md)
@@ -179,6 +188,8 @@ Tools
 * [MyEventViewer ](https://www.nirsoft.net/utils/my_event_viewer.html)
 * [WinPrefetchView](https://www.nirsoft.net/utils/win_prefetch_view.html)
 * [ShortcutsMan](https://www.nirsoft.net/utils/shman.html)
+* [JumpListsView](https://www.nirsoft.net/utils/jump_lists_view.html)
+* [JumpLister](https://github.com/woanware/JumpLister)
 * [Five PE Analysis Tools Worth Looking At](https://blog.malwarebytes.com/threat-analysis/2014/05/five-pe-analysis-tools-worth-looking-at/)
 * [PE Tools](https://petoolse.github.io/petools/)
 * [pev the PE file analysis toolkit](http://pev.sourceforge.net/)
