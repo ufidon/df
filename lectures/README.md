@@ -139,9 +139,14 @@ Tools
   * [Steganography on Wikipedia](https://en.wikipedia.org/wiki/Steganography)
   * [stego-toolkit collected by Dominic](https://github.com/DominicBreuker/stego-toolkit)
 
+
+
 ## Module06: Operating systems
 ### Windows
 Concepts
+0. Windows operating systems
+  * [Microsoft Windows](https://en.wikipedia.org/wiki/Microsoft\_Windows)
+
 1. Event logs
   * [List of Microsoft Windows components](https://en.wikipedia.org/wiki/List_of_Microsoft_Windows_components)
   * [Microsoft Management Console](https://en.wikipedia.org/wiki/Microsoft_Management_Console)
@@ -182,6 +187,18 @@ Concepts
   * [Restore Point Forensics](https://www.stevebunting.org/udpd4n6/forensics/restorepoints.htm)
   * [Forensic Analysis of System Restore Points in Microsoft Windows XP](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.84.4474&rep=rep1&type=pdf)
 
+6. File trash
+  * [Trash (computing)](https://en.wikipedia.org/wiki/Trash\_\(computing\))
+  * [File Explorer](https://en.wikipedia.org/wiki/File\_Explorer)
+  * [System.Shell.RecycleBin object](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/system-shell-recyclebin)
+  * [Examining the Windows 10 Recycle Bin](https://www.blackbagtech.com/blog/examining-the-windows-10-recycle-bin/)
+  * [Undelete and the Recycle Bin in Windows](https://www.ccleaner.com/docs/recuva/technical-information/undelete-and-the-recycle-bin-in-windows)
+  * [Where is the Windows 10 recycle bin?](https://www.techspot.com/guides/1640-windows-recycle-bin/)
+  * [Files Sent to The Recycle Bin: How to View, Restore or Delete Them Permanently](https://hetmanrecovery.com/recovery_news/where-to-store-how-to-view-and-find-deleted-files-in-the-recycle-bin.htm)
+  * [Windows Forensics: analysis of Recycle bin artifacts](https://www.andreafortuna.org/2019/09/26/windows-forensics-analysis-of-recycle-bin-artifacts/)
+
+7. Printer track
+
 Tools
 * [Evtx Explorer/EvtxECmd](https://ericzimmerman.github.io/#!index.md)
 * [Windows Event Log Viewer](https://tzworks.net/prototype_page.php?proto_id=4)
@@ -190,6 +207,7 @@ Tools
 * [ShortcutsMan](https://www.nirsoft.net/utils/shman.html)
 * [JumpListsView](https://www.nirsoft.net/utils/jump_lists_view.html)
 * [JumpLister](https://github.com/woanware/JumpLister)
+* [Rifiuti2 - Windows Recycle Bin Analysis Tool](https://abelcheung.github.io/rifiuti2/)
 * [Five PE Analysis Tools Worth Looking At](https://blog.malwarebytes.com/threat-analysis/2014/05/five-pe-analysis-tools-worth-looking-at/)
 * [PE Tools](https://petoolse.github.io/petools/)
 * [pev the PE file analysis toolkit](http://pev.sourceforge.net/)
