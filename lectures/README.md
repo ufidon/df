@@ -255,3 +255,13 @@ Tools
 
 
 ## Module09: DFIR certifications
+
+
+## Module10: Anti-forensics
+
+### concepts
+* [Anti-forensics with a small army of exploits](https://cryptome.org/0003/anti-forensics.pdf)
+
+### Tools
+* [Metasploit Anti-Forensics Project](https://resources.bishopfox.com/resources/tools/other-free-tools/mafia/)
+* [Metasploit Unleashed – Free Ethical Hacking Course](https://www.offensive-security.com/metasploit-unleashed/)
