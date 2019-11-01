@@ -73,16 +73,29 @@ References:
 ## lab10:
 
 ## proj2: Network traffic analysis
+3. [Rhino Hunt](https://www.cfreds.nist.gov/dfrws/Rhino_Hunt.html)
+4. [Rhino Hunt demo](https://makemyday.io/post/rhino-hunt-part-1/)
 
-References:
+concepts:
+9. [Password cracking](https://en.wikipedia.org/wiki/Password\_cracking)
+
+cases:
 1. [3 Steps to Hide Data in an Image Using Steganography](https://www.alpinesecurity.com/blog/3-steps-to-hide-data-in-an-image-using-steganography)
 2. [Stegdetect demo](https://www.rcbc.edu/files/PDFFiles/service-learning/bdd/Session%201_StegDetect.pdf)
+
+Tools
 3. [Stegdetect on Github](https://github.com/abeluck/stegdetect)
 3. [jphs: jphide & seek steganography tools ](https://github.com/h3xx/jphs)
 4. [Ubuntu outguess](http://manpages.ubuntu.com/manpages/disco/man1/outguess.1.html)
 5. [Archived outguess](http://web.archive.org/web/20150415220609/http://www.outguess.org/download.php)
 6. [outguess on Github](https://github.com/resurrecting-open-source-projects/outguess)
-
-3. [Rhino Hunt](https://www.cfreds.nist.gov/dfrws/Rhino_Hunt.html)
-4. [Rhino Hunt demo](https://makemyday.io/post/rhino-hunt-part-1/)
+7. [fcrackzip](http://manpages.ubuntu.com/manpages/bionic/man1/fcrackzip.1.html)
+8. [crark](http://www.crark.net/)
 5. [List of STEGANOGRAPHY SOFTWARE](http://www.jjtc.com/Steganography/tools.html)
+6. [the hydra](https://github.com/vanhauser-thc/thc-hydra)
+
+References:
+10. [List of the most common passwords](https://en.wikipedia.org/wiki/List\_of\_the\_most\_common\_passwords)
+11. [Leaked passwords](https://wiki.skullsecurity.org/index.php?title=Passwords)
+
+
