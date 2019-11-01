@@ -54,11 +54,13 @@ References:
 3. [Understanding the Registry  by Calpoly](https://cci.calpoly.edu/2019-digital-forensics-downloads)
 4. [cfreds-2017-winreg](https://www.cfreds.nist.gov/winreg/cfreds-2017-winreg/cfreds-2017-winreg.html)
 
-## lab06: 
+## lab06: Steganography
 References:
 1. [Honeynet Scan of the Month 26 with TSK](http://www.sleuthkit.org/case/sotm_26/index.html)
+2. [Stegdetect on Github](https://github.com/abeluck/stegdetect)
+3. [invisiblesecrets trial](http://www.invisiblesecrets.com/download.html)
 
-## lab07: 
+## lab07: Windows recent activities
 References:
 1. [Windows forensics by Calpoly](https://cci.calpoly.edu/2019-digital-forensics-downloads)
 2. [CLOCKSmith](http://evigator.com/free-apps/clocksmith)

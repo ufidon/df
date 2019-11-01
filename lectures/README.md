@@ -238,10 +238,29 @@ Tools
 
 ## Module07: Network
 ### Network traffic
+Concepts
+* [Open Systems Interconnection model (OSI model)](https://en.wikipedia.org/wiki/OSI\_model)
+* [Internet protocol suite](https://en.wikipedia.org/wiki/Internet\_protocol\_suite)
 
+
+Cases
+* [Ubuntu Server Guide: Networking](https://help.ubuntu.com/lts/serverguide/networking.html)
+* [An introduction to using tcpdump at the Linux command line](https://opensource.com/article/18/10/introduction-tcpdump)
+* [Tcpdump Examples](https://hackertarget.com/tcpdump-examples/)
+* [How to install Wireshark on Ubuntu 18.04 / Ubuntu 16.04 Desktop](https://computingforgeeks.com/how-to-install-wireshark-on-ubuntu-18-04-ubuntu-16-04-desktop/)
+* [Wireshark wikiuniversity](https://en.wikiversity.org/wiki/Wireshark)
+
+
+Tools
+
+* [59 Linux Networking commands and scripts](https://haydenjames.io/linux-networking-commands-scripts/)
+* [Wireshark](https://www.wireshark.org/)
+* [tcpdump & libpcap](https://www.tcpdump.org/)
+* [Comparison of network monitoring systems](https://en.wikipedia.org/wiki/Comparison\_of\_network\_monitoring\_systems)
+* [OpenNMS wikipedia](https://en.wikipedia.org/wiki/OpenNMS)
 
 ### Network devices: 
-1. switches, routers, network adapters
+1. network adapters, switches, routers
 2. clients, servers, cloud, iot
 
 
@@ -255,7 +274,11 @@ Tools
 
 
 ## Module09: DFIR certifications
-
+* [List of computer security certifications](https://en.wikipedia.org/wiki/List\_of\_computer\_security\_certifications)
+  * [Michael Tu, Ph.D. Associate Professor, CISSP, CEH, ACE](https://centers.pnw.edu/cybersecurity/michael-tu/)
+  * [Certified Information Systems Security Professional (CISSP) ](https://en.wikipedia.org/wiki/Certified\_Information\_Systems\_Security\_Professional)
+  * [Certified Ethical Hacker (CEH)](https://en.wikipedia.org/wiki/Certified\_Ethical\_Hacker)
+  * [Certified Penetration Testing Engineer](https://en.wikipedia.org/wiki/Certified\_Penetration\_Testing\_Engineer)
 
 ## Module10: Anti-forensics
 
