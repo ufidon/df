@@ -232,7 +232,7 @@ Tools
 Concepts
 * [Computer booting](https://en.wikipedia.org/wiki/Booting)
 * [Linux startup process](https://en.wikipedia.org/wiki/Linux\_startup\_process)
-* [Unified Extensible Firmware Interface](https://en.wikipedia.org/wiki/Unified\_Extensible\_Firmware\_Interface) <br/>
+* [Unified Extensible Firmware Interface](https://en.wikipedia.org/wiki/Unified\_Extensible\_Firmware\_Interface) \
 * [Daemon](https://en.wikipedia.org/wiki/Daemon\_\(computing\))
 
 
