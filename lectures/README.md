@@ -229,6 +229,16 @@ Tools
 
 
 ### Linux
+Concepts
+* [Computer booting](https://en.wikipedia.org/wiki/Booting)
+* [Linux startup process](https://en.wikipedia.org/wiki/Linux\_startup\_process)
+* [Unified Extensible Firmware Interface](https://en.wikipedia.org/wiki/Unified\_Extensible\_Firmware\_Interface) <br\>
+* [Daemon](https://en.wikipedia.org/wiki/Daemon\_\(computing\))
+
+
+Cases
+
+Tools
 
 ### Android
 * [Android forensics by Calpoly](https://cci.calpoly.edu/2019-digital-forensics-downloads)
@@ -241,10 +251,11 @@ Tools
 Concepts
 * [Open Systems Interconnection model (OSI model)](https://en.wikipedia.org/wiki/OSI\_model)
 * [Internet protocol suite](https://en.wikipedia.org/wiki/Internet\_protocol\_suite)
-
+* [Protocol Reference](https://wiki.wireshark.org/ProtocolReference)
 
 Cases
 * [Ubuntu Server Guide: Networking](https://help.ubuntu.com/lts/serverguide/networking.html)
+* [Enable tcpdump for non-root users on Debian/Ubuntu](https://gist.github.com/zapstar/3d2ff4f345b43ce7918889053503ef84)
 * [An introduction to using tcpdump at the Linux command line](https://opensource.com/article/18/10/introduction-tcpdump)
 * [Tcpdump Examples](https://hackertarget.com/tcpdump-examples/)
 * [How to install Wireshark on Ubuntu 18.04 / Ubuntu 16.04 Desktop](https://computingforgeeks.com/how-to-install-wireshark-on-ubuntu-18-04-ubuntu-16-04-desktop/)
