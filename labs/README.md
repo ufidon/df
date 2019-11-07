@@ -85,11 +85,15 @@ cases:
 
 1. [3 Steps to Hide Data in an Image Using Steganography](https://www.alpinesecurity.com/blog/3-steps-to-hide-data-in-an-image-using-steganography)
 2. [Stegdetect demo](https://www.rcbc.edu/files/PDFFiles/service-learning/bdd/Session%201_StegDetect.pdf)
+3. [how to extract ftp files from wireshark packet?](https://shankaraman.wordpress.com/tag/how-to-extract-ftp-files-from-wireshark-packet/)
 
 Tools
 
 1. [Stegdetect on Github](https://github.com/abeluck/stegdetect)
 2. [jphs: jphide & seek steganography tools ](https://github.com/h3xx/jphs)
+3. [JPHS Win](http://linux01.gwdg.de/~alatham/stego.html)
+4. [Steghide](http://steghide.sourceforge.net/)
+5. [SteGUI](http://stegui.sourceforge.net/)
 3. [Ubuntu outguess](http://manpages.ubuntu.com/manpages/disco/man1/outguess.1.html)
 4. [Archived outguess](http://web.archive.org/web/20150415220609/http://www.outguess.org/download.php)
 5. [outguess on Github](https://github.com/resurrecting-open-source-projects/outguess)

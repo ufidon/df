@@ -230,10 +230,21 @@ Tools
 
 ### Linux
 Concepts
+
+* _Boot_
 * [Computer booting](https://en.wikipedia.org/wiki/Booting)
 * [Linux startup process](https://en.wikipedia.org/wiki/Linux\_startup\_process)
-* [Unified Extensible Firmware Interface](https://en.wikipedia.org/wiki/Unified\_Extensible\_Firmware\_Interface) \
+* [Unified Extensible Firmware Interface](https://en.wikipedia.org/wiki/Unified\_Extensible\_Firmware\_Interface) 
+* _Daemon_
 * [Daemon](https://en.wikipedia.org/wiki/Daemon\_\(computing\))
+* [List of Unix daemons](https://en.wikipedia.org/wiki/List\_of\_Unix\_daemons)
+* [Systemd](https://en.wikipedia.org/wiki/Systemd)
+* _File system layout_
+* [ Filesystem Hierarchy Standard (FHS)](https://en.wikipedia.org/wiki/Filesystem\_Hierarchy\_Standard)
+* [FHS specification](https://refspecs.linuxfoundation.org/fhs.shtml)
+* [File system permissions](https://en.wikipedia.org/wiki/File\_system\_permissions)
+* [File attribute](https://en.wikipedia.org/wiki/File\_attribute)
+* [Hidden file and hidden directory](https://en.wikipedia.org/wiki/Hidden\_file\_and\_hidden\_directory)
 
 
 Cases
