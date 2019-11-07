@@ -66,11 +66,15 @@ References:
 2. [CLOCKSmith](http://evigator.com/free-apps/clocksmith)
 3. [JumpLister](https://github.com/woanware/JumpLister)
 
-## lab08:
+## lab08: Linux 
+Refenreces
 
-## lab09:
+1. [Linux LEO](https://linuxleo.com/)
+2. [Digital Corpora disk images](https://digitalcorpora.org/corpora/disk-images)
 
-## lab10:
+## lab09: Internet artifacts
+
+## lab10: Android
 
 ## proj2: Network traffic analysis
 

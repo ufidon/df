@@ -245,11 +245,42 @@ Concepts
 * [File system permissions](https://en.wikipedia.org/wiki/File\_system\_permissions)
 * [File attribute](https://en.wikipedia.org/wiki/File\_attribute)
 * [Hidden file and hidden directory](https://en.wikipedia.org/wiki/Hidden\_file\_and\_hidden\_directory)
+* _Users_
+* [Computer users](https://en.wikipedia.org/wiki/User\_\(computing\))
+* [User identifier](https://en.wikipedia.org/wiki/User\_identifier)
+* [Group identifier](https://en.wikipedia.org/wiki/Group\_identifier)
+* [passwd](https://en.wikipedia.org/wiki/Passwd)
+* [Understanding /etc/passwd File Format](https://www.cyberciti.biz/faq/understanding-etcpasswd-file-format/)
+* [Understanding /etc/group File](https://www.cyberciti.biz/faq/understanding-etcgroup-file/)
+* [Understanding /etc/shadow file](https://www.cyberciti.biz/faq/understanding-etcshadow-file/)
+* [Home directory](https://en.wikipedia.org/wiki/Home\_directory)
+* [Shell history](https://en.wikipedia.org/wiki/History\_\(command\))
+* [Secure Shell](https://en.wikipedia.org/wiki/Secure\_Shell)
+* [GNOME](https://en.wikipedia.org/wiki/GNOME)
+* [About GNOME .gconf, .gnome2 etc. directories in $HOME](https://unix.stackexchange.com/questions/21086/about-gnome-gconf-gnome2-etc-directories-in-home)
+* _Logs_
+* [Linux Log Files](https://help.ubuntu.com/community/LinuxLogFiles)
+* [Syslog](https://en.wikipedia.org/wiki/Syslog)
+* _Tasks_
+* [Cron How to](https://help.ubuntu.com/community/CronHowto)
 
 
 Cases
+* [How To Set up SSH Keys on a Linux / Unix System](https://www.cyberciti.biz/faq/how-to-set-up-ssh-keys-on-linux-unix/)
+* [How to Schedule Job on Linux using Cron, Anacron and at Commands ](https://linoxide.com/linux-how-to/schedule-job-linux-commands/)
 
 Tools
+* [Text Processing](https://learnbyexample.gitbooks.io/linux-command-line/content/Text\_Processing.html)
+
+Images
+* [Linux LEO](https://linuxleo.com/)
+* [Digital Corpora disk images](https://digitalcorpora.org/corpora/disk-images)
+
+References
+* [Linux man pages online](http://man7.org/linux/man-pages/)
+* [Linux Forensics for non Linux folks](http://www.deer-run.com/~hal/LinuxForensicsForNon-LinuxFolks.pdf)
+* [Forensic Artifacts in Modern Linux Systems](https://www.digitalforensics.ch/nikkel18.pdf)
+* [Dead Linux Machines Do Tell Tales](https://www.sans.org/reading-room/whitepapers/forensics/dead-linux-machines-tales-34227)
 
 ### Android
 * [Android forensics by Calpoly](https://cci.calpoly.edu/2019-digital-forensics-downloads)
