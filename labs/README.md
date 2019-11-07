@@ -90,6 +90,7 @@ cases:
 Tools
 
 1. [Stegdetect on Github](https://github.com/abeluck/stegdetect)
+2. [stegdetect](http://ftp.mirrorservice.org/sites/ftp.wiretapped.net/pub/security/steganography/stegdetect/)
 2. [jphs: jphide & seek steganography tools ](https://github.com/h3xx/jphs)
 3. [JPHS Win](http://linux01.gwdg.de/~alatham/stego.html)
 4. [Steghide](http://steghide.sourceforge.net/)
