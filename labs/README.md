@@ -74,7 +74,13 @@ Refenreces
 
 ## lab09: Internet artifacts
 
+References
+1. [Windows forensics by Calpoly](https://cci.calpoly.edu/2019-digital-forensics-downloads)
+
 ## lab10: Android
+
+References
+1. [Android forensics by Calpoly](https://cci.calpoly.edu/2019-digital-forensics-downloads)
 
 ## proj2: Network traffic analysis
 
