@@ -318,6 +318,57 @@ Tools
 
 
 ### Network applications: browsers, websites, emails, online storage, message apps 
+* Browsers
+  * _overview_
+  * [AN OVERVIEW OF WEB BROWSER FORENSICS](https://www.digitalforensics.com/blog/an-overview-of-web-browser-forensics/)
+  *  _concepts_
+  * [Web browser](https://en.wikipedia.org/wiki/Web\_browser) 
+  * [List of web browsers](https://en.wikipedia.org/wiki/List\_of\_web\_browsers)
+  * [Comparison of web browsers](https://en.wikipedia.org/wiki/Comparison\_of\_web\_browsers)
+  * [Browser extension](https://en.wikipedia.org/wiki/Browser\_extension)
+  * [Bookmark (digital)](https://en.wikipedia.org/wiki/Bookmark\_\(digital\))
+  * [HTTP cookie](https://en.wikipedia.org/wiki/HTTP\_cookie)
+  * [Web storage](https://en.wikipedia.org/wiki/Web\_storage)
+  * [Web browsing history](https://en.wikipedia.org/wiki/Web\_browsing\_history)
+  * [Wikipedia:Database download](https://en.wikipedia.org/wiki/Wikipedia:Database\_download)
+  * [Firefox](https://en.wikipedia.org/wiki/Firefox)
+  * [Google Chrome](https://en.wikipedia.org/wiki/Google\_Chrome)
+  * [Microsoft Edge](https://en.wikipedia.org/wiki/Microsoft\_Edge)
+  * [Internet Explorer](https://en.wikipedia.org/wiki/Internet\_Explorer)
+  * [SQLite](https://en.wikipedia.org/wiki/SQLite)
+  * _tools_
+  * [Web Artifact Analysis in Autopsy](https://www.sleuthkit.org/autopsy/web\_artifacts.php)
+  * [pasco](http://manpages.ubuntu.com/manpages/bionic/en/man1/pasco.1.html)
+  * [msiecfinfo](http://manpages.ubuntu.com/manpages/bionic/man1/msiecfinfo.1.html)
+  * [msiecfexport](http://manpages.ubuntu.com/manpages/bionic/en/man1/msiecfexport.1.html)
+  * [Win32::UrlCache](https://metacpan.org/pod/Win32::UrlCache)
+  * [SQLiteStudio](https://sqlitestudio.pl/index.rvt)
+  * [DB Browser for SQLite](https://sqlitebrowser.org/)
+  * [GNUstep](https://en.wikipedia.org/wiki/GNUstep)
+  * _cases_
+  * [Change the Default Location for Saving Internet Explorer Favorites](https://www.howtogeek.com/115412/change-the-default-location-for-saving-internet-explorer-favorites/)
+  
+  
+* eMails
+  * _overview_
+  * [Email Forensics](https://fenix.tecnico.ulisboa.pt/downloadFile/1970943312267438/csf-13.pdf)
+  * _concepts_
+  * [Email on Wikipedia](https://en.wikipedia.org/wiki/Email)
+  * [Comparison of email clients](https://en.wikipedia.org/wiki/Comparison\_of\_email\_clients)
+  * [Personal Storage Table](https://en.wikipedia.org/wiki/Personal\_Storage\_Table)
+  * [Outlook Personal Folders (.pst) File Format](https://docs.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+  * [Mbox](https://en.wikipedia.org/wiki/Mbox)
+  * [Maildir](https://en.wikipedia.org/wiki/Maildir)
+  * _tools_
+  * [pst2gmail](https://github.com/yiqideren/pst2gmail)
+  * [libpff](https://github.com/libyal/libpff)
+  * [pffinfo](http://manpages.ubuntu.com/manpages/bionic/man1/pffinfo.1.html)
+  * [pffexport](http://manpages.ubuntu.com/manpages/bionic/man1/pffexport.1.html)
+  * [grepmail](http://manpages.ubuntu.com/manpages/bionic/man1/grepmail.1p.html)
+  * [mairix ](http://manpages.ubuntu.com/manpages/bionic/en/man1/mairix.1.html)
+
+* Online storage
+* Message Apps
 
 ## Module08: Live systems
 ### Memory
