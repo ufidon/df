@@ -368,7 +368,27 @@ Tools
   * [mairix ](http://manpages.ubuntu.com/manpages/bionic/en/man1/mairix.1.html)
 
 * Online storage
+  * _overview_
+  * [CLOUD STORAGE FORENSICS - ppt](https://digital-forensics.sans.org/summit-archives/Prague\_Summit/Cloud\_Storage\_Forensics\_Mattia\_Eppifani.pdf)
+  * [Cloud Storage Forensics - book](https://www.oreilly.com/library/view/cloud-storage-forensics/9780124199705/)
+  * _concepts_
+  * [Cloud storage](https://en.wikipedia.org/wiki/Cloud\_storage)
+  * [Comparison of online backup services](https://en.wikipedia.org/wiki/Comparison\_of\_online\_backup\_services)
+  * [File sharing](https://en.wikipedia.org/wiki/File\_sharing)
+  * [Comparison of file-sharing applications](https://en.wikipedia.org/wiki/Comparison\_of\_file-sharing\_applications)
+  * [File hosting service](https://en.wikipedia.org/wiki/File\_hosting\_service)
+  * _tools_
+  * _cases_
+
+
 * Message Apps
+  * _overview_
+  * _concepts_
+    * [Messaging apps](https://en.wikipedia.org/wiki/Messaging\_apps)
+    * [Instant messaging](https://en.wikipedia.org/wiki/Instant\_messaging)
+    * [Comparison of instant messaging clients](https://en.wikipedia.org/wiki/Comparison\_of\_instant\_messaging\_clients)
+  * _tools_
+  * _cases_
 
 ## Module08: Live systems
 ### Memory
