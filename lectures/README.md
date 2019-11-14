@@ -142,6 +142,11 @@ Tools
 
 
 ## Module06: Operating systems
+* [Operating system](https://en.wikipedia.org/wiki/Operating\_system)
+* [List of operating systems](https://en.wikipedia.org/wiki/List\_of\_operating\_system)
+* [Real-time operating system](https://en.wikipedia.org/wiki/Real-time\_operating\_system)
+* [Comparison of real-time operating systems](https://en.wikipedia.org/wiki/Comparison\_of\_real-time\_operating\_systems)
+
 ### Windows
 Concepts
 0. Windows operating systems
@@ -282,10 +287,30 @@ References
   * [Forensic Artifacts in Modern Linux Systems](https://www.digitalforensics.ch/nikkel18.pdf)
   * [Dead Linux Machines Do Tell Tales](https://www.sans.org/reading-room/whitepapers/forensics/dead-linux-machines-tales-34227)
 
-### Android
-  * [Android forensics by Calpoly](https://cci.calpoly.edu/2019-digital-forensics-downloads)
+### Mobile operating system
+  * _overview_
+    * [Introduction to Mobile Forensics](https://eforensicsmag.com/introduction-to-mobile-forensics/)
+    * [INTRODUCTION TO MOBILE FORENSICS ppt](https://www.bucks.edu/media/bcccmedialibrary/con-ed/itacademy/IntroToMobileForensics.pdf)
+    * [Android forensics by Calpoly](https://cci.calpoly.edu/2019-digital-forensics-downloads)
+    * [Open Source Mobile Device Forensics](https://www.nist.gov/sites/default/files/documents/forensics/6-Mahalik_OSMF.pdf)
+  * _concepts_
+    * [Mobile device forensics](https://en.wikipedia.org/wiki/Mobile\_device\_forensics)
+    * [Mobile phone](https://en.wikipedia.org/wiki/Mobile\_phone)
+    * [Smartphone](https://en.wikipedia.org/wiki/Smartphone)
+    * [Comparison of smartphones](https://en.wikipedia.org/wiki/Comparison\_of\_smartphones)
+    * [Mobile operating system](https://en.wikipedia.org/wiki/Mobile\_operating\_system)
+    * [Wikipedia: Cellular network](https://en.wikipedia.org/wiki/Cellular\_network)
+    * [Wikipedia: SIM Card](https://en.wikipedia.org/wiki/SIM\_card)
+  * _tools_
+  * _cases_
+    * [SANS: Mobile Device Forensics](https://www.sans.org/reading-room/whitepapers/forensics/mobile-device-forensics-32888)
 
-### iOS
+### Embedded systems
+* _overview_
+* _concepts_
+  * [Embedded system](https://en.wikipedia.org/wiki/Embedded\_system)
+* _tools_
+* _cases_
 
 
 ## Module07: Network
@@ -367,10 +392,10 @@ Tools
     * [grepmail](http://manpages.ubuntu.com/manpages/bionic/man1/grepmail.1p.html)
     * [mairix ](http://manpages.ubuntu.com/manpages/bionic/en/man1/mairix.1.html)
 
-* Online storage
+* Online (Cloud) storage
   * _overview_
     * [CLOUD STORAGE FORENSICS - ppt](https://digital-forensics.sans.org/summit-archives/Prague\_Summit/Cloud\_Storage\_Forensics\_Mattia\_Eppifani.pdf)
-    * [Cloud Storage Forensics - book](https://www.oreilly.com/library/view/cloud-storage-forensics/9780124199705/)
+    * [Cloud Storage Forensics - book](https://www.sciencedirect.com/book/9780124199705/cloud-storage-forensics/)
   * _concepts_
     * [Cloud storage](https://en.wikipedia.org/wiki/Cloud\_storage)
     * [Comparison of online backup services](https://en.wikipedia.org/wiki/Comparison\_of\_online\_backup\_services)
@@ -390,11 +415,24 @@ Tools
   * _tools_
   * _cases_
 
-## Module08: Live systems
-### Memory
-
-
-### Malware
+## Module08: Live systems: Memory & Malware
+* _overview_
+  * [SANS: Advanced Memory Forensics & Threat Detection](https://www.sans.org/course/advanced-memory-forensics-and-threat-detection)
+  * [Windows Memory Forensics with Volatility](https://www.first.org/resources/papers/conference2009/schuster-andreas-sliders.pdf)
+  * [Book: The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory](https://www.oreilly.com/library/view/the-art-of/9781118824993/)
+* _concepts_
+  * [Memory forensics on Wikipedia](https://en.wikipedia.org/wiki/Memory\_forensics)
+  * [Windows Memory Management](https://docs.microsoft.com/en-us/windows/win32/memory/memory-management)
+  * [Linux Memory Management](https://www.kernel.org/doc/html/latest/admin-guide/mm/index.html)
+  * [MacOS memory management](https://developer.apple.com/library/archive/documentation/Darwin/Conceptual/KernelProgramming/vm/vm.html)
+  * [Papers using Rekall](http://www.rekall-forensic.com/documentation-1/publications)
+* _tools_
+  * [Volatility ](https://www.volatilityfoundation.org/)
+  * [Rekall](http://www.rekall-forensic.com/)
+  * [Windows Sysinternals](https://docs.microsoft.com/en-us/sysinternals/)
+* _cases_
+  * [Rekall Memory Forensics](https://digital-forensics.sans.org/summit-archives/dfirprague14/Rekall_Memory_Forensics_Michael_Cohen.pdf)
+  * [Live Memory Acquisition for windows operating sytems](https://pdfs.semanticscholar.org/3c01/7d435515d6db9aedba9ce7a0bf55a9b469ab.pdf)
 
 
 ## Module09: DFIR certifications
@@ -405,10 +443,13 @@ Tools
   * [Certified Penetration Testing Engineer](https://en.wikipedia.org/wiki/Certified\_Penetration\_Testing\_Engineer)
 
 ## Module10: Anti-forensics
+* _overview_
+  * [The Computer Forensics Challenge and Anti-Forensics Techniques](https://conference.hitb.org/hitbsecconf2007kl/materials/D2T2%20-%20Domingo%20Montanaro%20and%20Rodrigo%20Rubira%20Branco%20-%20The%20Computer%20Forensics%20Challenge%20and%20Anti-Forensics%20Techniques.pdf.pdf)
+  * [Counter-Forensic Tools failures & fingerprints](https://www.first.org/conference/2006/papers/geiger-matthew-slides.pdf)
+* _concepts_
+  * [Wikipedia: Anti-computer forensics](https://en.wikipedia.org/wiki/Anti-computer\_forensics)
+  * [Anti-forensics with a small army of exploits](https://cryptome.org/0003/anti-forensics.pdf)
 
-### concepts
-* [Anti-forensics with a small army of exploits](https://cryptome.org/0003/anti-forensics.pdf)
-
-### Tools
-* [Metasploit Anti-Forensics Project](https://resources.bishopfox.com/resources/tools/other-free-tools/mafia/)
-* [Metasploit Unleashed – Free Ethical Hacking Course](https://www.offensive-security.com/metasploit-unleashed/)
+* _Tools_
+  * [Metasploit Anti-Forensics Project](https://resources.bishopfox.com/resources/tools/other-free-tools/mafia/)
+  * [Metasploit Unleashed – Free Ethical Hacking Course](https://www.offensive-security.com/metasploit-unleashed/)
