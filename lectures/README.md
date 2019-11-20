@@ -290,6 +290,7 @@ References
 ### Mobile operating system
   * _overview_
     * [Introduction to Mobile Forensics](https://eforensicsmag.com/introduction-to-mobile-forensics/)
+    * [SANS: Mobile Device Forensics](https://www.sans.org/reading-room/whitepapers/forensics/mobile-device-forensics-32888)
     * [INTRODUCTION TO MOBILE FORENSICS ppt](https://www.bucks.edu/media/bcccmedialibrary/con-ed/itacademy/IntroToMobileForensics.pdf)
     * [Android forensics by Calpoly](https://cci.calpoly.edu/2019-digital-forensics-downloads)
     * [Open Source Mobile Device Forensics](https://www.nist.gov/sites/default/files/documents/forensics/6-Mahalik_OSMF.pdf)
@@ -302,6 +303,7 @@ References
     * [Wikipedia: Cellular network](https://en.wikipedia.org/wiki/Cellular\_network)
     * [Wikipedia: SIM Card](https://en.wikipedia.org/wiki/SIM\_card)
   * _tools_
+    * [Cellebrite – UFED](https://www.cfreds.nist.gov/mobile/cellebrite/index.htm)
   * _cases_
     * [SANS: Mobile Device Forensics](https://www.sans.org/reading-room/whitepapers/forensics/mobile-device-forensics-32888)
 
