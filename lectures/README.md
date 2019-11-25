@@ -290,7 +290,6 @@ References
 ### Mobile operating system
   * _overview_
     * [Introduction to Mobile Forensics](https://eforensicsmag.com/introduction-to-mobile-forensics/)
-    * [SANS: Mobile Device Forensics](https://www.sans.org/reading-room/whitepapers/forensics/mobile-device-forensics-32888)
     * [INTRODUCTION TO MOBILE FORENSICS ppt](https://www.bucks.edu/media/bcccmedialibrary/con-ed/itacademy/IntroToMobileForensics.pdf)
     * [Android forensics by Calpoly](https://cci.calpoly.edu/2019-digital-forensics-downloads)
     * [Open Source Mobile Device Forensics](https://www.nist.gov/sites/default/files/documents/forensics/6-Mahalik_OSMF.pdf)
@@ -304,8 +303,23 @@ References
     * [Wikipedia: SIM Card](https://en.wikipedia.org/wiki/SIM\_card)
   * _tools_
     * [Cellebrite – UFED](https://www.cfreds.nist.gov/mobile/cellebrite/index.htm)
+    * [libimobiledevice - iOS communicator](http://www.libimobiledevice.org/)
+    * [Santoku](https://santoku-linux.com/)
+    * [Android developers](https://developer.android.com/)
+    * [3uTools](https://www.3u.com/firmwares)
+    * [P2K Commander](http://www.e398mod.com/index.php?option=com_content&view=article&id=60/28)
+
+  * _hardware_
+    * [Faraday bag](https://faradaybag.com/)
+    
   * _cases_
     * [SANS: Mobile Device Forensics](https://www.sans.org/reading-room/whitepapers/forensics/mobile-device-forensics-32888)
+    * [Flash, Mod and Backup Your Android from Computer using UniFlash](https://www.guidingtech.com/14470/flash-mod-backup-android-computer-uniflash/)
+    * [How to flash the firmware of iPhone](https://www.gearbest.com/blog/how-to/how-to-flash-the-firmware-of-iphone-3070)
+    * [iMazing: Reinstall or restore iOS on a malfunctioning iPhone or iPad](https://imazing.com/guides/how-to-reinstall-or-restore-ios-on-a-malfunctioning-iphone-or-ipad)
+    * [How to Flash a New ROM to Your Android Phone](https://www.xda-developers.com/how-to-install-custom-rom-android/)
+    * [Manually flash Android Things](https://developer.android.com/things/hardware/fastboot)
+    * [4 Ways to Flash Dead Android Phone Safely](https://drfone.wondershare.com/android-issue/flash-dead-android-phone.html)
 
 ### Embedded systems
 * _overview_
