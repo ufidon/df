@@ -37,6 +37,7 @@ course materials and references for its452
 
 ## Free forensics tools
 * [DataDump & DCode](https://www.digital-detective.net/digital-forensic-software/free-tools/)
+* [7-Zip plugins\Forensic7z](http://www.tc4shell.com/en/7zip/forensic7z/)
 
 ## Digital Forensics images
 * [Honeynet](https://www.honeynet.org/)
