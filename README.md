@@ -68,3 +68,11 @@ course materials and references for its452
 ## Popular operating system websites
 * [OSDEV](https://wiki.osdev.org)
 
+## References textbooks
+* [Digital Forensics with Open Source Tools](https://www.oreilly.com/library/view/digital-forensics-with/9781597495868/)
+* [File System Forensic Analysis](https://www.pearson.com/us/higher-education/program/Carrier-File-System-Forensic-Analysis/PGM270599.html)
+* [Practical Guide to Digital Forensics Investigations](https://www.pearson.com/us/higher-education/program/Hayes-Practical-Guide-to-Digital-Forensics-Investigations-A-2nd-Edition/PGM1987452.html)
+* [Computer Forensics and Cyber Crime: An Introduction, 4th Edition](https://www.pearson.com/us/higher-education/program/Britz-Computer-Forensics-and-Cyber-Crime-An-Introduction-4th-Edition/PGM1903947.html)
+* [Investigating the Cyber Breach: The Digital Forensics Guide for the Network Engineer](https://www.pearson.com/us/higher-education/program/Muniz-Investigating-the-Cyber-Breach-The-Digital-Forensics-Guide-for-the-Network-Engineer/PGM1776465.html)
+* [Digital Archaeology: The Art and Science of Digital Forensics](https://www.pearson.com/us/higher-education/program/Graves-Digital-Archaeology-The-Art-and-Science-of-Digital-Forensics/PGM127243.html)
+* [Forensic Science: From the Crime Scene to the Crime Lab](https://www.pearson.com/us/higher-education/program/Saferstein-Forensic-Science-From-the-Crime-Scene-to-the-Crime-Lab-RENTAL-EDITION-4th-Edition/PGM1801322.html)
