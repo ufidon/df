@@ -6,6 +6,16 @@ course materials and references for its452
 * Setup Forensics Tools
 * *Rule of thumb to choose software: always choose the lastest and STABLE version*
 
+## NAT network and VM settings
+* NAT network settings:
+  * Disable IPv6
+  * Network ID: 10.20.30.0
+* VM settings: one for Ubuntu, one for Windows server
+  * *6GB memory/200GB disk*
+  * Connect to the NAT network
+  * It is a best practice to set VM's IP address statically
+  * Enable network promiscuous mode
+
 ## Install Ubuntu  Mate LTS
 Follow the steps below to setup Ubuntu  Mate in a VirtualBox VM:
 
