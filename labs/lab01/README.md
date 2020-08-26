@@ -4,9 +4,10 @@ course materials and references for its452
 ## lab01: Build environments for computer forensics
 * Create virtual machines
 * Setup Forensics Tools
+* *Rule of thumb to choose software: always choose the lastest and STABLE version*
 
-## Install Ubuntu 18.04 Mate
-Follow the steps below to setup Ubuntu 18.04 Mate in a VirtualBox VM:
+## Install Ubuntu  Mate LTS
+Follow the steps below to setup Ubuntu  Mate in a VirtualBox VM:
 
 1. Download [Ubuntu MATE LTS](https://ubuntu-mate.org/) from its official website --- [https://ubuntu-mate.org](https://ubuntu-mate.org). Choose the  64-bit PC version ubuntu-mate LTS.
 2. Create a VM with *6GB memory/200GB disk* in VirtualBox and install the downloaded Ubuntu
@@ -117,7 +118,7 @@ BEViewer
 
 ## Install Windows server
 
-If your host operating system is Windows, then you don't need to install Windows server.
+*If your host operating system is Windows, then you don't need to install Windows server.*
 
 * Download [Windows Server](https://www.microsoft.com/en-us/windows-server)
 * Create a Virtual Machine with *6GB memory/200GB disk* in VirtualBox for installing this Windows server
