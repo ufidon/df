@@ -48,8 +48,8 @@ Now it is ready to install Java JDK 8 \& 11, run the following commands:
 ```bash
 sdk list java
 # choose the suitable versions from the list
-sdk install java 8.0.202-zulufx
-sdk install java 11.0.2-zulufx
+sdk install java 8.0.265.fx-librca
+sdk install java 11.0.8.fx-librca
 ```
 
 ### Install Sleuth Kit & Autopsy
@@ -63,7 +63,7 @@ Follow the steps below to setup Sleuth Kit & Autopsy:
 By default, the downloaded files are saved at the Download folder in your home directory. Go to the folder where all the above downloaded files reside, open a terminal and run the following commands:
 
 ```bash
-sdk default java 8.0.202-zulufx
+sdk default java 8.0.265.fx-librca
 sudo apt install testdisk
 
 # replace x.x.x-x with the corresponding version numbers
@@ -71,7 +71,7 @@ sudo apt install ./sleuthkit-java_x.x.x-x_amd64.deb
 # replace y.y.y with the corresponding version numbers
 7z x autopsy-y.y.y.zip
 cd autopsy-y.y.y
-JAVA_HOME="/home/$USER/sdkman/candidates/java/8.0.202-zulufx"
+JAVA_HOME="/home/$USER/sdkman/candidates/java/8.0.265.fx-librca"
 export JAVA_HOME
 chmod +x unix_setup.sh
 ./unix_setup.sh
@@ -91,11 +91,11 @@ make
 sudo make install
 ```
 
-### Install Bulk extractor
-Run the following commands to install bulk extractor:
+### Install [Bulk extractor](http://downloads.digitalcorpora.org/downloads/bulk_extractor/)
+Run the following commands to install [bulk extractor](https://github.com/simsong/bulk_extractor):
 
 ```bash
-sdk default java 11.0.2-zulufx
+sdk default java 11.0.8.fx-librca
 sudo apt install libssl-dev libxml2-dev flex
 git clone https://github.com/simsong/bulk_extractor.git
 cd bulk_extractor/
@@ -115,13 +115,13 @@ Set the correct Java JDK before you run programs. For example:
 
 ```bash
 # 1. Run autopsy
-sdk default java 8.0.202-zulufx
+sdk default java 8.0.265.fx-librca
 
 # go to the folder where your autopsy resides
 ./bin/autopsy
 
 # 2. Run BEViewer
-sdk default java 11.0.2-zulufx
+sdk default java 11.0.8.fx-librca
 
 BEViewer
 ```
@@ -149,3 +149,6 @@ BEViewer
 * [VirtualBox.](https://www.virtualbox.org/)
 * [autopsy: Running Linux OSX](https://github.com/sleuthkit/autopsy/blob/develop/Running_Linux_OSX.txt)
 * [Sleuthkit & Autopsy](https://www.sleuthkit.org/)
+* [hashdb](https://github.com/NPS-DEEP/hashdb/)
+  * [hashdb](http://downloads.digitalcorpora.org/downloads/hashdb/)
+* [Bulk extractor](http://downloads.digitalcorpora.org/downloads/bulk_extractor/)
