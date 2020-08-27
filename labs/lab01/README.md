@@ -138,6 +138,7 @@ BEViewer
 
 ## Demo video:
 * [Build a digital forensic platform with Ubuntu 20.04](https://youtu.be/vU9Yqfh6PUE)
+* [Build a digital forensic platform with Windows server 2019](https://youtu.be/iVIQ1JGI8nQ)
 
 ## References:
 * [Popular Computer Forensics Top 21 Tools](https://resources.infosecinstitute.com/computer-forensics-tools)
