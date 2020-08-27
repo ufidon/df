@@ -136,6 +136,9 @@ BEViewer
 * Install Sleuth Kit & Autopsy
 * Install [Bulk extractor](https://github.com/simsong/bulk\_extractor). BEViewer also provides a User Interface for launching bulk_extractor scans, it is packaged with bulk_extractor. 
 
+## Demo video:
+* [Build a digital forensic platform with Ubuntu 20.04](https://youtu.be/vU9Yqfh6PUE)
+
 ## References:
 * [Popular Computer Forensics Top 21 Tools](https://resources.infosecinstitute.com/computer-forensics-tools)
 * [Ubuntu](https://ubuntu.com)
