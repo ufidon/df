@@ -71,7 +71,7 @@ sudo apt install ./sleuthkit-java_x.x.x-x_amd64.deb
 # replace y.y.y with the corresponding version numbers
 7z x autopsy-y.y.y.zip
 cd autopsy-y.y.y
-JAVA_HOME="/home/$USER/sdkman/candidates/java/8.0.265.fx-librca"
+JAVA_HOME="/home/$USER/.sdkman/candidates/java/current"
 export JAVA_HOME
 chmod +x unix_setup.sh
 ./unix_setup.sh
@@ -152,3 +152,4 @@ BEViewer
 * [hashdb](https://github.com/NPS-DEEP/hashdb/)
   * [hashdb](http://downloads.digitalcorpora.org/downloads/hashdb/)
 * [Bulk extractor](http://downloads.digitalcorpora.org/downloads/bulk_extractor/)
+* [Popular hex editors](https://www.ubuntupit.com/best-linux-hex-editor-top-20-linux-hex-viewers-editors/)
