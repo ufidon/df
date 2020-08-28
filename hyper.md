@@ -40,6 +40,10 @@ The Ubuntu VM settings summary:
 
 *Now follow typical process to Install Ubuntu using VirtualBox.*
 
+Here is Ubuntu 20.04 LTS running in VirtualBox:
+
+![Ubuntu 20.04 LTS running in VirtualBox](./figs/ubuntuinvb.png)
+
 4. If you see the following error trying running the Ubuntu VM, it means Hyper-V is running, which should be stopped to run VirtualBox VMs.
 
 ![Running Hyper-V prevents VirtualBox VM from running](./figs/runninghypervkillsvirtualbox.png)
@@ -75,7 +79,7 @@ Here is Ubuntu 20.04 LTS running in Hyper-V
 
 ![Ubuntu 20.04 LTS running in Hyper-V](./figs/ubuntuonhyperv.png)
 
-1. If you see the following error, it means Hyper-V is NOT running, which should be started to run Hyper-V VMs.
+4. If you see the following error, it means Hyper-V is NOT running, which should be started to run Hyper-V VMs.
 
 ![Hyper-V is NOT running](./figs/hypervnotrunning.png)
 
