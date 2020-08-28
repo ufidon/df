@@ -17,6 +17,7 @@ In this course, we will create virtual machines with  Ubuntu LTS image and Windo
   * Ubuntu 18.04 LTS+
 * _Software_
   * [VirtualBox](https://www.virtualbox.org/)
+  * [If you have problems uisng VirtualBox alongisde Hyper-V](./hyper.md)
 
 ## References textbooks
 * [Digital Forensics with Open Source Tools](https://www.oreilly.com/library/view/digital-forensics-with/9781597495868/)
