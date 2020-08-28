@@ -1,53 +1,76 @@
 # How to run VirtualBox with Hyper-V acceleration on Windows 10?
 
-Until Windows 10 v1803, the "Windows Hypervisor Platform" becomes available from version 1803 and this one allows VirtualBox to be based on the native Hyper- V to work next to it.
+The "Windows Hypervisor Platform" becomes available from version 1803 and this one allows VirtualBox to be based on the native Hyper-V to work next to it.
 
 If you have Windows 10 with version no less than v1803, then VirtualBox can be used with Hyper-V acceleration.
 
 ## Preparaion
 1. check Windows 10 version no less than v1803
 2. Install all Hyper-V features on Windows 10 as highlighted
+
 ![Install all Hyper-V features](./figs/hypervfeature.png)
+
 The last feature *Windows Subsystem for Linux* is NOT needed.
+
 3. The Hyper-V services is looks like
+
 ![Hyper-V services](./figs/hypervrunning.png)
 
 
 ## Install Ubuntu on VirtualBox with Hyper-V acceleration
 1. Stop Hyper-V at boot, run *Command Prompt* as Administrator,
+
 ![Stop Hyper-V at boot](./figs/hypervstop.png)
+
 When you see the output successfull, reboot Windows 10.
+
 2. After Windows 10 booted, check the *System Information*
+
 ![All four Hyper-V features are YES](./figs/hypervstopped.png)
+
 3. Configure VirtualBox virtual machine using Hyper-V acceleration
+
 ![VirtualBox VM accelerated with Hyper-V](./figs/virtualboxacceleratedwithhyperv.png)
+
 ![VirtualBox VM settings summary](./figs/virtualboxwithhyperv.png)
 
 *Now follow typical process to Install VMs using VirtualBox.*
+
 4. If you see the following error, it means Hyper-V is running, which should be stopped to run VirtualBox VMs.
+
 ![Running Hyper-V prevents VirtualBox VM from running](./figs/runninghypervkillsvirtualbox.png)
 
 
 
 ## Install Ubuntu with Hyper-V manager
 1. Start Hyper-V at boot, run *Command Prompt* as Administrator,
+
 ![Start Hyper-V at boot](./figs/startyperv.png)
+
 When you see the output successfull, reboot Windows 10.
+
 2. After Windows 10 booted, check the *System Information*
+
 ![Hyper-V hypervisor is running](./figs/hypervrunning.png)
 
 3. Use Hyper-V manager create a bare-bone VM,
+
 ![Create a VM in Hyper-V manager](./figs/hypervmanager.png)
+
 *Checkpoint is disabled to save disk space.*
 
 Configure the VM as
+
 ![The Ubuntu VM settings in Hyper-V](./figs/hypervvmsetting.png)
+
 *Now follow typical process to Install VMs using VirtualBox.*
 
 Here is Ubuntu 20.04 LTS running in Hyper-V
+
 ![Ubuntu 20.04 LTS running in Hyper-V](./figs/ubuntuonhyperv.png)
 
 4. If you see the following error, it means Hyper-V is NOT running, which should be started to run Hyper-V VMs.
+
 ![Hyper-V is NOT running](./figs/hypervnotrunning.png)
 
 
