@@ -12,7 +12,7 @@ If you have Windows 10 with version no less than v1803, then VirtualBox can be u
 
 The last feature *Windows Subsystem for Linux* is NOT needed.
 
-3. The Hyper-V services is looks like
+3. The Hyper-V services look like
 
 ![Hyper-V services](./figs/hypervservices.png)
 
@@ -27,6 +27,8 @@ When you see the output successfull, reboot Windows 10.
 2. After Windows 10 booted, check the *System Information*
 
 ![All four Hyper-V features are YES](./figs/hypervstopped.png)
+
+All four Hyper-V items are all Yes.
 
 3. Configure VirtualBox virtual machine using Hyper-V acceleration
 
