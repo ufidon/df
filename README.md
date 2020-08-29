@@ -17,7 +17,8 @@ In this course, we will create virtual machines with  Ubuntu LTS image and Windo
   * Ubuntu 18.04 LTS+
 * _Software_
   * [VirtualBox](https://www.virtualbox.org/)
-  * [If you have problems uisng VirtualBox alongisde Hyper-V](./hyper.md)
+  * [If you have problems using VirtualBox alongside Hyper-V](./hyper.md)
+  * If your Windows is Home Edition, you may have weird problems with Virtualbox if Hyper-V is installed. Use [VMWare Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) instead of VirtualBox.
 
 ## References textbooks
 * [Digital Forensics with Open Source Tools](https://www.oreilly.com/library/view/digital-forensics-with/9781597495868/)

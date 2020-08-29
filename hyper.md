@@ -5,7 +5,7 @@ The "Windows Hypervisor Platform" becomes available from version 1803 and this o
 If you have Windows 10 with version no less than v1803, then VirtualBox can be used with Hyper-V acceleration.
 
 ## 1. Preparation
-1. check Windows 10 version no less than v1803
+1. check Windows 10 version no less than v1803, and it is Pro Edition, Education Edition, or Ultimate Edition.
 2. Install all Hyper-V features on Windows 10 as highlighted
 
 ![Install all Hyper-V features](./figs/hypervfeature.png)
