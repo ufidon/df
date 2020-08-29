@@ -158,3 +158,8 @@ BEViewer
   * [hashdb](http://downloads.digitalcorpora.org/downloads/hashdb/)
 * [Bulk extractor](http://downloads.digitalcorpora.org/downloads/bulk_extractor/)
 * [Popular hex editors](https://www.ubuntupit.com/best-linux-hex-editor-top-20-linux-hex-viewers-editors/)
+* [VMWare Workstation player](https://www.vmware.com/products/workstation-player.html)
+  * [How to Convert VHD to VMDK: A Step-By-Step Guide](https://www.nakivo.com/blog/how-to-convert-vhd-to-vmdk-a-step-by-step-guide/)
+  * [VMDK to VDI and VDI to VMDK in Windows](https://www.sysprobs.com/vmdk-vdi-windows)
+* [Converting between image formats](https://docs.openstack.org/image-guide/convert-images.html)
+* [How To Convert VirtualBox Disk Image (VDI) and img to Qcow2 format](https://computingforgeeks.com/how-to-convert-virtualbox-disk-image-vdi-and-img-to-qcow2-format/)

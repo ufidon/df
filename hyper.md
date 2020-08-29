@@ -88,6 +88,7 @@ Here is Ubuntu 20.04 LTS running in Hyper-V
 * [Use VirtualBox and Hyper-V simultaneously](https://us.informatiweb.net/tutorials/it/virtualization/virtualbox-use-virtualbox-and-hyper-v-at-the-same-time.html)
 * [Choose between VirtualBox or Hyper-V at startup](https://us.informatiweb.net/tutorials/it/virtualization/hyper-v-coexistence-with-virtualbox-or-vmware-workstation.html)
 * [Hash sum mismatch error while upgrading](https://superuser.com/questions/1557457/hash-sum-mismatch-error-while-upgrading)
+* [Install Hyper-V on Windows 10](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)
 * [Hyper-v: shut down a virtual machine that is not responding](https://rdr-it.com/en/troubleshooting/hyper-v-shut-down-a-virtual-machine-that-is-not-responding/)
 * [Hyper-V VM Stuck in the “Stopping/Starting” State](http://woshub.com/how-to-stop-a-hung-virtual-machine-on-hyper-v-2016/)
 * [Windows 10: Changing Hyper-V support at boot time](https://d3v.one/windows-10-changing-hyper-v-support-at-boot-time/)
