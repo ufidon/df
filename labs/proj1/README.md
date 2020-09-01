@@ -2,9 +2,25 @@
 course materials and references for its452
 
 ## proj1: Overview of a complete forensic process
-Complete the challenge posted on Honeynet: [scan24](http://old.honeynet.org/scans/scan24/)
 
-References:
+**1. Task**
+
+Complete the challenge posted on Honeynet: [scan 24](http://www.honeynet.onofri.org/scans/scan24/)
+
+**2. Review questions**
+
+The 6 questions listed in the challenge above.
+
+
+1. Who is Joe Jacob's supplier of marijuana and what is the address listed for the supplier?
+2. What crucial data is available within the coverpage.jpg file and why is this data crucial?
+3. What (if any) other high schools besides Smith Hill does Joe Jacobs frequent?
+4. For each file, what processes were taken by the suspect to mask them from others?
+5. What processes did you (the investigator) use to successfully examine the entire contents of each file?
+6. What Microsoft program was used to create the Cover Page file. What is your proof (Proof is the key to getting this question right, not just making a guess).
+
+
+**3.References:**
+* [The Honeynet Projects: scan 24](http://www.honeynet.onofri.org/scans/scan24/)
 * [Reference demo](https://www.pcsympathy.com/2008/03/22/my-first-autopsy/)
 
-* [Reference solution](http://old.honeynet.org/scans/scan24/sol/dennis/index.htm)
