@@ -3,11 +3,20 @@ course materials and references for its452
 
 ## proj1: Overview of a complete forensic process
 
+**0. Warmup reading**
+* [A brief digital forensics cycle by Linux and Disk Forensics](./refs/Acompleteforensicprocesspdf)
+
+
 **1. Task**
 
 Complete the challenge posted on Honeynet: [scan 24](http://www.honeynet.onofri.org/scans/scan24/)
 
-**2. Review questions**
+
+**2. Report**
+
+Write a report about the process you complete the tasks in the description, key screen snapshots are needed as evidences.
+
+**3. Review questions**
 
 The 6 questions listed in the challenge above.
 
@@ -20,7 +29,8 @@ The 6 questions listed in the challenge above.
 6. What Microsoft program was used to create the Cover Page file. What is your proof (Proof is the key to getting this question right, not just making a guess).
 
 
-**3.References:**
+**4.References:**
 * [The Honeynet Projects: scan 24](http://www.honeynet.onofri.org/scans/scan24/)
 * [Reference demo](https://www.pcsympathy.com/2008/03/22/my-first-autopsy/)
+* [A brief digital forensics cycle by Linux and Disk Forensics](https://resources.infosecinstitute.com/linux-and-disk-forensics/)
 
