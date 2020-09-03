@@ -2,6 +2,8 @@
 course materials and references for its452
 
 ## Module01: 
+* [Digital evidence](https://en.wikipedia.org/wiki/Digital_evidence)
+  * [Forensic data analysis](https://en.wikipedia.org/wiki/Forensic_data_analysis)
 * _Data (Information) representation (encoding)_
   * [Computer file](https://en.wikipedia.org/wiki/Computer\_file)
   * [cat](https://en.wikipedia.org/wiki/Cat\_\(Unix\))
@@ -39,7 +41,7 @@ course materials and references for its452
       * [Comparison of video codecs](https://en.wikipedia.org/wiki/Comparison\_of\_video\_codecs)
       * [Comparison of video container formats](https://en.wikipedia.org/wiki/Comparison\_of\_video\_container\_formats)
     * [List of open-source codecs](https://en.wikipedia.org/wiki/List\_of\_open-source\_codecs)
-    * [Archive]
+    * _Archive_
       * [Archive file](https://en.wikipedia.org/wiki/Archive\_file)
         * [List of archive formats](https://en.wikipedia.org/wiki/List\_of\_archive\_formats)
         * [Zip (file format)](https://en.wikipedia.org/wiki/Zip\_\(file\_format\))
@@ -52,7 +54,7 @@ course materials and references for its452
       * [File archiver](https://en.wikipedia.org/wiki/File\_archiver)   
         * [Comparison of file archivers](https://en.wikipedia.org/wiki/Comparison\_of\_file\_archivers)
       * [Data compression](https://en.wikipedia.org/wiki/Data\_compression)
-    * [Documents]
+    * _Documents_
       * [Document](https://en.wikipedia.org/wiki/Document)
       * [Text file](https://en.wikipedia.org/wiki/Text\_file)
         * [ASCII](https://en.wikipedia.org/wiki/ASCII)
