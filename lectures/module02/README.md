@@ -51,6 +51,12 @@ course materials and references for its452
         * [Top Hex Editors for Linux](https://itsfoss.com/hex-editors-linux/)
           * [wxHexEditor](https://www.wxhexeditor.org/)
             * [wxhexeditor](./tools/wxHexEditor/)
+
+```bash
+Insert between list
+```
+
+
     * _OS interface_
       * [Disk partitioning](https://en.wikipedia.org/wiki/Disk_partitioning)
         * _tools_
