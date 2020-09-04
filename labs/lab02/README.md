@@ -27,7 +27,7 @@ course materials and references for its452
   * [split](https://en.wikipedia.org/wiki/Split_(Unix))
   * [cat](https://en.wikipedia.org/wiki/Cat_(Unix))
 * [wxHexEditor](https://www.wxhexeditor.org/)
-  * [wxhexeditor](./wxhexeditor.md)
+  * [wxhexeditor](../../lectures/module02/wxhexeditor.md)
 * [fdisk](https://tldp.org/HOWTO/Partition/fdisk_partitioning.html)
 * [GParted](https://en.wikipedia.org/wiki/GParted)
   * [GNOME Partition Editor](https://gparted.org/)
