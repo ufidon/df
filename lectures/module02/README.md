@@ -50,19 +50,20 @@ course materials and references for its452
         * [Comparison of hex editors](https://en.wikipedia.org/wiki/Comparison_of_hex_editors)
         * [Top Hex Editors for Linux](https://itsfoss.com/hex-editors-linux/)
           * [wxHexEditor](https://www.wxhexeditor.org/)
-            * [wxhexeditor](./tools/wxHexEditor/)
-
-```bash
-Insert between list
-```
-
-
+            * [wxhexeditor](./wxhexeditor.md)
     * _OS interface_
       * [Disk partitioning](https://en.wikipedia.org/wiki/Disk_partitioning)
         * _tools_
           * [List of disk partitioning software](https://en.wikipedia.org/wiki/List_of_disk_partitioning_software)
             * [GParted](https://en.wikipedia.org/wiki/GParted)
               * [GNOME Partition Editor](https://gparted.org/)
+            * [Loop device](https://en.wikipedia.org/wiki/Loop_device)
+              * [losetup](https://man7.org/linux/man-pages/man8/losetup.8.html)
+              * [How to use loop devices](https://blog.sleeplessbeastie.eu/2017/07/03/how-to-use-loop-devices/)
+              * [Device file](https://en.wikipedia.org/wiki/Device_file)
+              * [Using kpartx/losetup With Disk Image (.img) Files and Partitions](https://medium.com/swlh/using-kpartx-losetup-with-disk-image-img-files-and-partitions-a5e186d303e5)
+            * [sleuthkit](http://wiki.sleuthkit.org/index.php?title=Help_Documents)
+              * [TSK Tool Overview](http://wiki.sleuthkit.org/index.php?title=TSK_Tool_Overview)
         * _concepts_
           * [Partition table](https://en.wikipedia.org/wiki/Partition_table)
             * [Partition alignment](https://en.wikipedia.org/wiki/Partition_alignment)
