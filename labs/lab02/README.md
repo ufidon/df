@@ -11,14 +11,14 @@ course materials and references for its452
 
 **2. Tasks**
 
-1. Use dd command to create two disk images each of size 500M and filled with zero
-2. Use losetup to mount these two disk images to two loop devices
-3. Use GParted to partition the first image into 4 partitions
-   1. Unmount the image, explore the partitions with sleuthkit image file tools and volume system tools
-   2. Mount the image with losetup, explore the partitions with wxHexEditor
-4. Use fdisk to partition the second image into 5 partitions
-   1. Unmount the image, explore the partitions with sleuthkit image file tools and volume system tools
-   2. Mount the image with losetup, explore the partitions with wxHexEditor
+1. (10%) Use dd command to create two disk images each of size 500M and filled with zero
+2. (10%) Use losetup to mount these two disk images to two loop devices
+3. (40%) Use GParted to partition the first image into 4 partitions
+   1. (20%) Unmount the image, explore the partitions with sleuthkit image file tools and volume system tools
+   2. (20%) Mount the image with losetup, explore the partitions with wxHexEditor
+4. (40%) Use fdisk to partition the second image into 5 partitions
+   1. (20%) Unmount the image, explore the partitions with sleuthkit image file tools and volume system tools
+   2. (20%) Mount the image with losetup, explore the partitions with wxHexEditor
 
 **3. Tools**
 

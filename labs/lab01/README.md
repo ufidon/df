@@ -20,7 +20,7 @@ course materials and references for its452
 Follow the steps below to setup Ubuntu  Mate in a VirtualBox VM:
 
 1. Download [Ubuntu MATE LTS](https://ubuntu-mate.org/) from its official website --- [https://ubuntu-mate.org](https://ubuntu-mate.org). Choose the  64-bit PC version ubuntu-mate LTS.
-2. Create a VM with *6GB memory/200GB disk* in VirtualBox and install the downloaded Ubuntu
+2. (20%)Create a VM with *6GB memory/200GB disk* in VirtualBox and install the downloaded Ubuntu
 
 
 After installation, *make sure you can access Internet*, update and upgrade Ubuntu, then install the following tools. Open a terminal window, run the following commands:
@@ -31,7 +31,7 @@ sudo apt upgrade
 sudo apt install p7zip-full build-essential gcc perl cmake automake curl git
 ```
 
-### Install Java Environment
+### (20%)Install Java Environment
 In this class, both Java JDK 8 & 11 are needed, a tool named [sdkman](https://sdkman.io/) can manage multiple-version Java JDK. Run the following commands to install *sdkman* first:
 
 ```bash
@@ -52,7 +52,7 @@ sdk install java 8.0.265.fx-librca
 sdk install java 11.0.8.fx-librca
 ```
 
-### Install Sleuth Kit & Autopsy
+### (20%)Install Sleuth Kit & Autopsy
 
 We will use the latest-version *Sleuth Kit  & Autopsy*. They are *state-of-the-art* forensics tools. 
 
@@ -91,7 +91,7 @@ make
 sudo make install
 ```
 
-### Install [Bulk extractor](http://downloads.digitalcorpora.org/downloads/bulk_extractor/)
+### (20%)Install [Bulk extractor](http://downloads.digitalcorpora.org/downloads/bulk_extractor/)
 Run the following commands to install [bulk extractor](https://github.com/simsong/bulk_extractor):
 
 ```bash
@@ -133,8 +133,8 @@ BEViewer
 * Download [Windows Server](https://www.microsoft.com/en-us/windows-server)
 * Create a Virtual Machine with *6GB memory/200GB disk* in VirtualBox for installing this Windows server
 * Install the Windows Server for a free trial
-* Install Sleuth Kit & Autopsy
-* Install [Bulk extractor](https://github.com/simsong/bulk\_extractor). BEViewer also provides a User Interface for launching bulk_extractor scans, it is packaged with bulk_extractor. 
+* (10%) Install Sleuth Kit & Autopsy
+* (10%) Install [Bulk extractor](https://github.com/simsong/bulk\_extractor). BEViewer also provides a User Interface for launching bulk_extractor scans, it is packaged with bulk_extractor. 
 
 ## Demo video:
 * [Build a digital forensic platform with Ubuntu 20.04](https://youtu.be/vU9Yqfh6PUE)
