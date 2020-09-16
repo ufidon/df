@@ -14,11 +14,11 @@ course materials and references for its452
 1. (10%) Use dd command to create two disk images each of size 500M and filled with zero
 2. (10%) Use losetup to mount these two disk images to two loop devices
 3. (40%) *With MBR as the partition scheme*, use GParted to partition the first image into partitions as ![image1 partitions](./demo/image1.png). 
-   1. (20%) Unmount the image, explore the partitions with sleuthkit image file tools and volume system tools
-   2. (20%) Mount the image with losetup, explore the partitions with wxHexEditor
+   1. (10%) Unmount the image, explore the partitions with sleuthkit image file tools(img_stat) and volume system tools(mmls)
+   2. (30%) Mount the image with losetup, explore the partitions with wxHexEditor, identify the information shown with mmls.
 4. (40%) *With GPT as the partition scheme*, use fdisk to partition the second image into 5 partitions. 
-   1. (20%) Unmount the image, explore the partitions with sleuthkit image file tools and volume system tools
-   2. (20%) Mount the image with losetup, explore the partitions with wxHexEditor
+   1. (10%) Unmount the image, explore the partitions with sleuthkit image file tools (img_stat) and volume system tools(mmls)
+   2. (30%) Mount the image with losetup, explore the partitions with wxHexEditor, identify the information shown with mmls.
 
 **3. Tools**
 
@@ -49,4 +49,6 @@ course materials and references for its452
   * [Master Boot Record (MBR)](https://wiki.osdev.org/MBR_(x86))
 * [GPT](https://en.wikipedia.org/wiki/GUID_Partition_Table)
   * [GUID Partition Table](https://wiki.osdev.org/GPT)
+* [How to install an Operating System (OS) using the GUID Disk Partition Table (GPT)](./refs/gptwhitepaper11.pdf)
 * [Apple partition map](https://en.wikipedia.org/wiki/Apple_Partition_Map)
+
