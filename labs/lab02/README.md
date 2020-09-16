@@ -11,14 +11,16 @@ course materials and references for its452
 
 **2. Tasks**
 
+*It is fine if your partition sizes, types are different from the figures below, but the number of partitions should be the same as the figures.*
+
 1. (10%) Use dd command to create two disk images each of size 500M and filled with zero
 2. (10%) Use losetup to mount these two disk images to two loop devices
 3. (40%) *With MBR as the partition scheme*, use GParted to partition the first image into partitions as ![image1 partitions](./demo/image1.png). 
    1. (10%) Unmount the image, explore the partitions with sleuthkit image file tools(img_stat) and volume system tools(mmls)
-   2. (30%) Mount the image with losetup, explore the partitions with wxHexEditor, identify the information shown with mmls.
+   2. (30%) Mount the image with losetup, explore the partitions with wxHexEditor, identify the information shown with mmls inside wxHexEditor.
 4. (40%) *With GPT as the partition scheme*, use fdisk to partition the second image into 5 partitions as ![image2 partitions](./demo/image2.png)
-   1. (10%) Unmount the image, explore the partitions with sleuthkit image file tools (img_stat) and volume system tools(mmls)
-   2. (30%) Mount the image with losetup, explore the partitions with wxHexEditor, identify the information shown with mmls.
+   1. (10%) Unmount the image, explore the partitions with sleuthkit image file tools (img_stat) and volume system tools(mmls) 
+   2. (30%) Mount the image with losetup, explore the partitions with wxHexEditor, identify the information shown with mmls inside wxHexEditor.
 
 **3. Tools**
 
