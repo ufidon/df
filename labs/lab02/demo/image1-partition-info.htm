@@ -1,0 +1,1040 @@
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en-US' lang='en-US'>
+<head>
+<meta http-equiv='Content-Type' content='text/html;charset=utf-8' />
+<title>GParted Details</title>
+<style type='text/css'>
+table {border:0}
+th {text-align:left}
+.number_col {text-align:right}
+</style>
+</head>
+<body>
+<p>GParted 1.0.0</p>
+<p>configuration --enable-libparted-dmraid --enable-online-resize</p>
+<p>libparted 3.3</p>
+<p>========================================</p>
+<table>
+<tr><th>Device:</th><td>/dev/loop6</td></tr>
+<tr><th>Model:</th><td>Loopback device</td></tr>
+<tr><th>Serial:</th><td>none</td></tr>
+<tr><th>Sector size:</th><td>512</td></tr>
+<tr><th>Total sectors:</th><td>1024000</td></tr>
+<tr><td colspan='2'>&nbsp;</td></tr>
+<tr><th>Heads:</th><td>255</td></tr>
+<tr><th>Sectors/track:</th><td>2</td></tr>
+<tr><th>Cylinders:</th><td>2007</td></tr>
+<tr><td colspan='2'>&nbsp;</td></tr>
+<tr><th>Partition table:</th><td>msdos</td></tr>
+<tr><td colspan='2'>&nbsp;</td></tr>
+</table>
+<table>
+<tr><th>Partition</th><th>Type</th><th class='number_col'>Start</th><th class='number_col'>End</th><th>Flags</th><th>Partition Name</th><th>File System</th><th>Label</th><th>Mount Point</th></tr>
+</table>
+<p>========================================</p>
+<table>
+<tr>
+<td colspan='2'>
+<b>Create Primary Partition #1 (fat16, 100.00 MiB) on /dev/loop6</b>&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+create empty partition&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+<i>path: /dev/loop6p1 (partition)<br />start: 2048<br />end: 206847<br />size: 204800 (100.00 MiB)</i>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+clear old file system signatures in /dev/loop6p1&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+write 512.00 KiB of zeros at byte offset 0&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+write 4.00 KiB of zeros at byte offset 67108864&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+write 512.00 KiB of zeros at byte offset 104333312&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+write 4.00 KiB of zeros at byte offset 104792064&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+write 8.00 KiB of zeros at byte offset 104849408&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+flush operating system cache of /dev/loop6&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+set partition type on /dev/loop6p1&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+<i>new partition type: fat16</i>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+create new fat16 file system&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+<b><i>mkfs.fat -F16 -v -I -n &apos;FAT16      &apos; &apos;/dev/loop6p1&apos;</i></b>&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+<i>mkfs.fat 4.1 (2017-01-24)<br />/dev/loop6p1 has 64 heads and 32 sectors per track,<br />hidden sectors 0x0000;<br />logical sector size is 512,<br />using 0xf8 media descriptor, with 204800 sectors;<br />drive number 0x80;<br />filesystem has 2 16-bit FATs and 4 sectors per cluster.<br />FAT size is 200 sectors, and provides 51091 clusters.<br />There are 4 reserved sectors.<br />Root directory contains 512 slots and uses 32 sectors.<br />Volume ID is 451a193c, volume label FAT16      .<br /></i>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+<i></i>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>========================================</p>
+<table>
+<tr>
+<td colspan='2'>
+<b>Create Primary Partition #2 (fat32, 100.00 MiB) on /dev/loop6</b>&nbsp;&nbsp;00:00:01&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+create empty partition&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+<i>path: /dev/loop6p2 (partition)<br />start: 206848<br />end: 411647<br />size: 204800 (100.00 MiB)</i>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+clear old file system signatures in /dev/loop6p2&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+write 512.00 KiB of zeros at byte offset 0&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+write 4.00 KiB of zeros at byte offset 67108864&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+write 512.00 KiB of zeros at byte offset 104333312&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+write 4.00 KiB of zeros at byte offset 104792064&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+write 8.00 KiB of zeros at byte offset 104849408&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+flush operating system cache of /dev/loop6&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+set partition type on /dev/loop6p2&nbsp;&nbsp;00:00:01&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+<i>new partition type: fat32</i>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+create new fat32 file system&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+<b><i>mkfs.fat -F32 -v -I -n &apos;FAT32      &apos; &apos;/dev/loop6p2&apos;</i></b>&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+<i>mkfs.fat 4.1 (2017-01-24)<br />/dev/loop6p2 has 64 heads and 32 sectors per track,<br />hidden sectors 0x0000;<br />logical sector size is 512,<br />using 0xf8 media descriptor, with 204800 sectors;<br />drive number 0x80;<br />filesystem has 2 32-bit FATs and 1 sector per cluster.<br />FAT size is 1576 sectors, and provides 201616 clusters.<br />There are 32 reserved sectors.<br />Volume ID is 45229012, volume label FAT32      .<br /></i>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+<i></i>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>========================================</p>
+<table>
+<tr>
+<td colspan='2'>
+<b>Create Primary Partition #3 (ntfs, 100.00 MiB) on /dev/loop6</b>&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+create empty partition&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+<i>path: /dev/loop6p3 (partition)<br />start: 411648<br />end: 616447<br />size: 204800 (100.00 MiB)</i>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+clear old file system signatures in /dev/loop6p3&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+write 512.00 KiB of zeros at byte offset 0&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+write 4.00 KiB of zeros at byte offset 67108864&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+write 512.00 KiB of zeros at byte offset 104333312&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+write 4.00 KiB of zeros at byte offset 104792064&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+write 8.00 KiB of zeros at byte offset 104849408&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+flush operating system cache of /dev/loop6&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+set partition type on /dev/loop6p3&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+<i>new partition type: ntfs</i>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+create new ntfs file system&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+<b><i>mkntfs -Q -v -F -L &apos;ntfs&apos; &apos;/dev/loop6p3&apos;</i></b>&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+<i>Cluster size has been automatically set to 4096 bytes.<br />Creating NTFS volume structures.<br />Creating root directory (mft record 5)<br />Creating $MFT (mft record 0)<br />Creating $MFTMirr (mft record 1)<br />Creating $LogFile (mft record 2)<br />Creating $AttrDef (mft record 4)<br />Creating $Bitmap (mft record 6)<br />Creating $Boot (mft record 7)<br />Creating backup boot sector.<br />Creating $Volume (mft record 3)<br />Creating $BadClus (mft record 8)<br />Creating $Secure (mft record 9)<br />Creating $UpCase (mft record 0xa)<br />Creating $Extend (mft record 11)<br />Creating system file (mft record 0xc)<br />Creating system file (mft record 0xd)<br />Creating system file (mft record 0xe)<br />Creating system file (mft record 0xf)<br />Creating $Quota (mft record 24)<br />Creating $ObjId (mft record 25)<br />Creating $Reparse (mft record 26)<br />Syncing root directory index record.<br />Syncing $Bitmap.<br />Syncing $MFT.<br />Updating $MFTMirr.<br />Syncing device.<br />mkntfs completed successfully. Have a nice day.<br /></i>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+<i>The partition start sector was not specified for /dev/loop6p3 and it could not be obtained automatically.  It has been set to 0.<br />The number of sectors per track was not specified for /dev/loop6p3 and it could not be obtained automatically.  It has been set to 0.<br />The number of heads was not specified for /dev/loop6p3 and it could not be obtained automatically.  It has been set to 0.<br />To boot from a device, Windows needs the &apos;partition start sector&apos;, the &apos;sectors per track&apos; and the &apos;number of heads&apos; to be set.<br />Windows will not be able to boot from this device.<br /></i>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>========================================</p>
+<table>
+<tr>
+<td colspan='2'>
+<b>Create Extended Partition #4 (extended, 199.00 MiB) on /dev/loop6</b>&nbsp;&nbsp;00:00:01&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+create empty partition&nbsp;&nbsp;00:00:01&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+<i>path: /dev/loop6p4 (partition)<br />start: 616448<br />end: 1023999<br />size: 407552 (199.00 MiB)</i>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>========================================</p>
+<table>
+<tr>
+<td colspan='2'>
+<b>Create Logical Partition #5 (fat16, 50.00 MiB) on /dev/loop6</b>&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+create empty partition&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+<i>path: /dev/loop6p5 (partition)<br />start: 618496<br />end: 720895<br />size: 102400 (50.00 MiB)</i>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+clear old file system signatures in /dev/loop6p5&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+write 512.00 KiB of zeros at byte offset 0&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+write 512.00 KiB of zeros at byte offset 51904512&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+write 4.00 KiB of zeros at byte offset 52363264&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+write 8.00 KiB of zeros at byte offset 52420608&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+flush operating system cache of /dev/loop6&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+set partition type on /dev/loop6p5&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+<i>new partition type: fat16</i>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+create new fat16 file system&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+<b><i>mkfs.fat -F16 -v -I -n &apos;EX-FAT16   &apos; &apos;/dev/loop6p5&apos;</i></b>&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+<i>mkfs.fat 4.1 (2017-01-24)<br />/dev/loop6p5 has 64 heads and 32 sectors per track,<br />hidden sectors 0x0000;<br />logical sector size is 512,<br />using 0xf8 media descriptor, with 102400 sectors;<br />drive number 0x80;<br />filesystem has 2 16-bit FATs and 4 sectors per cluster.<br />FAT size is 100 sectors, and provides 25541 clusters.<br />There are 4 reserved sectors.<br />Root directory contains 512 slots and uses 32 sectors.<br />Volume ID is 453a2674, volume label EX-FAT16   .<br /></i>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+<i></i>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>========================================</p>
+<table>
+<tr>
+<td colspan='2'>
+<b>Create Logical Partition #6 (fat32, 50.00 MiB) on /dev/loop6</b>&nbsp;&nbsp;00:00:01&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+create empty partition&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+<i>path: /dev/loop6p6 (partition)<br />start: 722944<br />end: 825343<br />size: 102400 (50.00 MiB)</i>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+clear old file system signatures in /dev/loop6p6&nbsp;&nbsp;00:00:01&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+write 512.00 KiB of zeros at byte offset 0&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+write 512.00 KiB of zeros at byte offset 51904512&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+write 4.00 KiB of zeros at byte offset 52363264&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+write 8.00 KiB of zeros at byte offset 52420608&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+flush operating system cache of /dev/loop6&nbsp;&nbsp;00:00:01&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+set partition type on /dev/loop6p6&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+<i>new partition type: fat32</i>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+create new fat32 file system&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+<b><i>mkfs.fat -F32 -v -I -n &apos;EX-FAT32   &apos; &apos;/dev/loop6p6&apos;</i></b>&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+<i>mkfs.fat 4.1 (2017-01-24)<br />/dev/loop6p6 has 64 heads and 32 sectors per track,<br />hidden sectors 0x0000;<br />logical sector size is 512,<br />using 0xf8 media descriptor, with 102400 sectors;<br />drive number 0x80;<br />filesystem has 2 32-bit FATs and 1 sector per cluster.<br />FAT size is 788 sectors, and provides 100792 clusters.<br />There are 32 reserved sectors.<br />Volume ID is 4544dffe, volume label EX-FAT32   .<br /></i>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+<i></i>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>========================================</p>
+<table>
+<tr>
+<td colspan='2'>
+<b>Create Logical Partition #7 (linux-swap, 50.00 MiB) on /dev/loop6</b>&nbsp;&nbsp;00:00:04&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+create empty partition&nbsp;&nbsp;00:00:04&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+<i>path: /dev/loop6p7 (partition)<br />start: 827392<br />end: 929791<br />size: 102400 (50.00 MiB)</i>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+clear old file system signatures in /dev/loop6p7&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+write 512.00 KiB of zeros at byte offset 0&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+write 512.00 KiB of zeros at byte offset 51904512&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+write 4.00 KiB of zeros at byte offset 52363264&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+write 8.00 KiB of zeros at byte offset 52420608&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+flush operating system cache of /dev/loop6&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+set partition type on /dev/loop6p7&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+<i>new partition type: linux-swap(v1)</i>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+create new linux-swap file system&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+<b><i>mkswap -L &apos;ex-linux-swap&apos; &apos;/dev/loop6p7&apos;</i></b>&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+<i>Setting up swapspace version 1, size = 50 MiB (52424704 bytes)<br />LABEL=ex-linux-swap, UUID=15a025a5-8ed9-4ae8-8ef0-9c9a40b42112<br /></i>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+<i></i>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>========================================</p>
+<table>
+<tr>
+<td colspan='2'>
+<b>Create Logical Partition #8 (ext4, 45.00 MiB) on /dev/loop6</b>&nbsp;&nbsp;00:00:01&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+create empty partition&nbsp;&nbsp;00:00:01&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+<i>path: /dev/loop6p8 (partition)<br />start: 931840<br />end: 1023999<br />size: 92160 (45.00 MiB)</i>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+clear old file system signatures in /dev/loop6p8&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+write 512.00 KiB of zeros at byte offset 0&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+write 512.00 KiB of zeros at byte offset 46661632&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+write 4.00 KiB of zeros at byte offset 47120384&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+write 8.00 KiB of zeros at byte offset 47177728&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+flush operating system cache of /dev/loop6&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+set partition type on /dev/loop6p8&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+<i>new partition type: ext4</i>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+create new ext4 file system&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+<b><i>mkfs.ext4 -F -O ^64bit -L &apos;ex-ext4&apos; &apos;/dev/loop6p8&apos;</i></b>&nbsp;&nbsp;00:00:00&nbsp;&nbsp;&nbsp;&nbsp;( SUCCESS )
+</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>
+<table>
+<tr>
+<td colspan='2'>
+<i>64-bit filesystem support is not enabled.  The larger fields afforded by this feature enable full-strength checksumming.  Pass -O 64bit to rectify.<br />Discarding device blocks: done                            <br />Creating filesystem with 11520 4k blocks and 11520 inodes<br /><br />Allocating group tables: done                            <br />Writing inode tables: done                            <br />Creating journal (1024 blocks): done<br />Writing superblocks and filesystem accounting information: done<br /><br /></i>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td colspan='2'>
+<i>mke2fs 1.45.5 (07-Jan-2020)<br /></i>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
