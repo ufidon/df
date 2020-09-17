@@ -44,6 +44,11 @@ course materials and references for its452
   * [Implementation doc](http://wiki.sleuthkit.org/index.php?title=Design_Documents)
   * [source code](https://github.com/sleuthkit/sleuthkit)
 
+**4. Demo videos**
+
+* _2020 Fall_
+  * [Lab02 Part 1: DiskPartitioning](https://youtu.be/HviukcJQBuQ)
+  * [Lab02 Part 2: DiskPartitioning](https://youtu.be/GSGi42YGUco)
 
 **References:**
 * [Disk partition](https://en.wikipedia.org/wiki/Disk_partitioning)
