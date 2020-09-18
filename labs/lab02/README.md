@@ -18,6 +18,7 @@ course materials and references for its452
 3. (40%) *With MBR as the partition scheme*, use GParted to partition the first image into partitions as ![image1 partitions](./demo/image1.png). 
    1. (10%) Unmount the image, explore the partitions with sleuthkit image file tools(img_stat) and volume system tools(mmls)
    2. (30%) Mount the image with losetup, explore the partitions with wxHexEditor, identify the information shown with mmls inside wxHexEditor.
+   3. (Optional) *show the link list of EBR*, here is a [demo](./demo/AnalyzingEBR.odt)
 4. (40%) *With GPT as the partition scheme*, use gdisk to partition the second image into 5 partitions as ![image2 partitions](./demo/image2.png)
    1. (10%) Unmount the image, explore the partitions with sleuthkit image file tools (img_stat) and volume system tools(mmls) 
    2. (30%) Mount the image with losetup, explore the partitions with wxHexEditor, identify the information shown with mmls inside wxHexEditor.
