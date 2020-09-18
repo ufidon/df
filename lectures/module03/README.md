@@ -4,6 +4,24 @@ course materials and references for its452
 ## Module03: File system
 * [File system](https://en.wikipedia.org/wiki/File_system)
 * [Comparison of file systems](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
+  * [Journaling file system](https://en.wikipedia.org/wiki/Journaling_file_system)
+  * [Versioning file system](https://en.wikipedia.org/wiki/Versioning_file_system)
+  * [Virtual file system](https://en.wikipedia.org/wiki/Virtual_file_system)
+    * [Anatomy of the Linux virtual file system switch](https://developer.ibm.com/tutorials/l-virtual-filesystem-switch/)
+  * [Encrypting File System](https://en.wikipedia.org/wiki/Encrypting_File_System)
+  * [Network-attached storage](https://en.wikipedia.org/wiki/Network-attached_storage)
+  * [Universal Disk Format](https://en.wikipedia.org/wiki/Universal_Disk_Format)
+* [File system fragmentation](https://en.wikipedia.org/wiki/File_system_fragmentation)
+  * [Storage efficiency](https://en.wikipedia.org/wiki/Storage_efficiency)
+  * [Defragmentation](https://en.wikipedia.org/wiki/Defragmentation)
+    * [Comparison of defragmentation software](https://en.wikipedia.org/wiki/Comparison_of_defragmentation_software)
+* _compression_
+  * [Disk compression](https://en.wikipedia.org/wiki/Disk_compression)
+  * [Virtual memory compression](https://en.wikipedia.org/wiki/Virtual_memory_compression)
+  * [Data compression](https://en.wikipedia.org/wiki/Data_compression)
+  * [Executable compression](https://en.wikipedia.org/wiki/Executable_compression)
+    * [UPX](https://en.wikipedia.org/wiki/UPX)
+  * [Self-extracting archive](https://en.wikipedia.org/wiki/Self-extracting_archive)
 
 ### Windows file system: FAT & NTFS
 * [Windows File system info](https://www.ntfs.com/index.html)
@@ -12,32 +30,67 @@ course materials and references for its452
   * [MSDN File System Functionality Comparison](https://docs.microsoft.com/en-us/windows/win32/fileio/filesystem-functionality-comparison)
 * [File Allocation Table](https://en.wikipedia.org/wiki/File_Allocation_Table)
   * [OSDEV FAT](https://wiki.osdev.org/FAT)
+    * [Design of the FAT file system](https://en.wikipedia.org/wiki/Design_of_the_FAT_file_system)
+  * [FAT12 overview](./refs/FAT12overview.pdf)
   * [Understanding FAT32 Filesystems](https://www.pjrc.com/tech/8051/ide/fat32.html)
   * [Microsoft FAT Specification, August 30 2005](../../../labs/lab03/../../its452/labs/lab03/refs/MicrosoftFATSpecification2005.pdf)
+  * [ExFAT](https://en.wikipedia.org/wiki/ExFAT)
+    * [The Extended FAT file system](./refs/TheExtendedFATfilesystem.pdf)
   * [Microsoft Extensible Firmware Initiative FAT32 File System Specification](../../../labs/lab03/../../its452/labs/lab03/refs/msfat32filesystemspecification2000.pdf)
 * [Microsoft NTFS](https://docs.microsoft.com/en-us/windows-server/storage/file-server/ntfs-overview)
+  * [Windows Kernel Internals NTFS](./refs/NTFS.pdf)
+  * [NTFS Documentation](./ref/../refs/NTFSDocumentation.pdf)
+  * [NTFS file system intro](./ref/../refs/ntfsfilesystemintro.pdf)
+  * [Analysis of hidden data in NTFS file system](./ref/../refs/ntfshiddendataanalysis.pdf)
+  * [Low-level writing to NTFS file systems](./refs/p05report.pdf)
   * [Open Source: NTFS-3G](https://www.tuxera.com/community/open-source-ntfs-3g/)
   * [FAT32 vs. NTFS ](./refs/fat32vsntfs.pdf)
 * [File System Forensics FAT and NTFS](./refs/FileSystemForensicsFATandNTFS.pdf)
-
-
+* [USB Storage Device Forensics for Windows 10](refs/Arshadetal2017JournalofForensicSciences.pdf)
 
 Tools
 * [fatback: A *nix tool for recovering files from FAT file systems.](https://github.com/gaul/fatback)
 
 
 ### Linux file system: Ext2/3/4
-* [Ext2 on Wikipedia](https://en.wikipedia.org/wiki/Ext2)
-* [Ext3 on Wikipedia](https://en.wikipedia.org/wiki/Ext3)
-* [Ext4 on Wikipedia](https://en.wikipedia.org/wiki/Ext4)
-* [Ext2: Second Extended Filesystem (ext2fs) ](https://wiki.osdev.org/Ext2)
-* [The Second Extended File System](https://www.nongnu.org/ext2-doc/ext2.html)
-* [ext4 Data Structures and Algorithms](https://www.kernel.org/doc/html/latest/filesystems/ext4/index.html)
+* [Extended file system](https://en.wikipedia.org/wiki/Extended_file_system)
+  * [Ext2 on Wikipedia](https://en.wikipedia.org/wiki/Ext2)
+  * [Ext3 on Wikipedia](https://en.wikipedia.org/wiki/Ext3)
+  * [Ext4 on Wikipedia](https://en.wikipedia.org/wiki/Ext4)
+    * [Ext4: The Next Generation of Ext2/3 Filesystem](./refs/caom.pdf)
+  * [Ext2: Second Extended Filesystem (ext2fs) ](https://wiki.osdev.org/Ext2)
+  * [The Second Extended File System](https://www.nongnu.org/ext2-doc/ext2.html)
+  * [ext4 Data Structures and Algorithms](https://www.kernel.org/doc/html/latest/filesystems/ext4/index.html)
+* [MINIX file system](https://en.wikipedia.org/wiki/MINIX_file_system)
+* [Unix filesystem](https://en.wikipedia.org/wiki/Unix_filesystem)
+* [The Forensic-Cheat-Sheet for Linux and TSK](./refs/forensiccheatsheetForLinuxAndTSK.pdf)
 
 ### Encrypted disks
-* [Mount a FileVault Drive Encrypted (FVDE) volume](https://github.com/libyal/libfvde/wiki/Mounting)
-* [Open Bitlocker Drive on Linux](https://www.ceos3c.com/open-source/open-bitlocker-drive-linux/)
-* [How To Mount BitLocker-Encrypted Windows Partitions On Linux](https://www.linuxuprising.com/2019/04/how-to-mount-bitlocker-encrypted.html)
+* [Disk encryption](https://en.wikipedia.org/wiki/Disk_encryption)
+  * [Disk encryption theory](https://en.wikipedia.org/wiki/Disk_encryption_theory)
+    * [Encryption layer in storage stack](https://en.wikipedia.org/wiki/Encryption_layer_in_storage_stack)
+  * [Disk encryption software](https://en.wikipedia.org/wiki/Disk_encryption_software)
+  * [Comparison of disk encryption software](https://en.wikipedia.org/wiki/Comparison_of_disk_encryption_software)
+    * [VeraCrypt](https://en.wikipedia.org/wiki/VeraCrypt)
+    * [TrueCrypt](https://en.wikipedia.org/wiki/TrueCrypt)
+    * [DiskCryptor](https://en.wikipedia.org/wiki/DiskCryptor)
+    * [BitLocker](https://en.wikipedia.org/wiki/BitLocker)
+  * [Filesystem-level encryption](https://en.wikipedia.org/wiki/Filesystem-level_encryption)
+    * [List of cryptographic file systems](https://en.wikipedia.org/wiki/List_of_cryptographic_file_systems)
+      * [ECryptfs](https://en.wikipedia.org/wiki/ECryptfs)
+    * [Steganographic file system](https://en.wikipedia.org/wiki/Steganographic_file_system)
+  * [Hardware-based full disk encryption](https://en.wikipedia.org/wiki/Hardware-based_full_disk_encryption)
+* _Tips_
+  * [Mount a FileVault Drive Encrypted (FVDE) volume](https://github.com/libyal/libfvde/wiki/Mounting)
+  * [Open Bitlocker Drive on Linux](https://www.ceos3c.com/open-source/open-bitlocker-drive-linux/)
+  * [How To Mount BitLocker-Encrypted Windows Partitions On Linux](https://www.linuxuprising.com/2019/04/how-to-mount-bitlocker-encrypted.html)
+
+### Misc
+* [A Windows Registry Dataset](./refs/cfreds2017winreg.pdf)
+* [WiFi Related Registry Keys](./refs/RCMPEricRowe.pdf)
+* [Wireless Networks and the Windows Registry - Just where has your computer been?](./refs/wirelessnetworkswindowsregistrycomputerbeen33659.pdf)
+* [How to install an Operating System (OS) using the GUID Disk Partition Table (GPT)](./refs/gptwhitepaper11.pdf)
+* [Advanced Configuration and Power Interface (ACPI) Specification](./refs/ACPI63finalJan30.pdf)
 
 ### Testing images
 * [Digital Forensics Tool Testing Images](http://dftt.sourceforge.net/)
