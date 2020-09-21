@@ -47,8 +47,8 @@ course materials and references for its452
 * [Microsoft FAT Specification, August 30 2005](./refs/MicrosoftFATSpecification2005.pdf)
 * [Microsoft Extensible Firmware Initiative FAT32 File System Specification](./refs/msfat32filesystemspecification2000.pdf)
 * [How to Use Fdisk to Manage Partitions on Linux?](https://www.howtogeek.com/106873/how-to-use-fdisk-to-manage-partitions-on-linux/)
-* [Greate a FAT12 system](https://unix.stackexchange.com/questions/508890/how-to-change-partition-type-id-without-formatting).
-* [Mount the FAT12 partition](https://askubuntu.com/questions/69363/mount-single-partition-from-image-of-entire-disk-device)
+* [how to change partition type id without formatting](https://unix.stackexchange.com/questions/508890/how-to-change-partition-type-id-without-formatting).
+* [mount single partition from image of entire disk device](https://askubuntu.com/questions/69363/mount-single-partition-from-image-of-entire-disk-device)
 * [creating partitioned virtual disk images](https://adayinthelifeof.nl/2011/10/11/creating-partitioned-virtual-disk-images/)
-* [Format the mounted FAT12 partition into FAT12 file system](https://adayinthelifeof.nl/2011/10/11/creating-partitioned-virtual-disk-images/)
+
 
