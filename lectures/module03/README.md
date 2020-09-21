@@ -82,7 +82,9 @@ Tools
   * [Mounting Windows Partitions](https://help.ubuntu.com/community/MountingWindowsPartitions)
   * [Mount USB](https://help.ubuntu.com/community/Mount/USB)
   * [mount](https://en.wikipedia.org/wiki/Mount_(Unix)mount)
-* [How to rename partitions?](https://askubuntu.com/questions/276911/how-to-rename-partitions)
+* _tips_
+  * [How to rename partitions?](https://askubuntu.com/questions/276911/how-to-rename-partitions)
+  * [creating partitioned virtual disk images](https://adayinthelifeof.nl/2011/10/11/creating-partitioned-virtual-disk-images/)
 * [Fsck](https://en.wikipedia.org/wiki/Fsck)
 * [Data erasure](https://en.wikipedia.org/wiki/Data_erasure)
   * [List of data-erasing software](https://en.wikipedia.org/wiki/List_of_data-erasing_software)

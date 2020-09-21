@@ -13,6 +13,9 @@ sudo apt purge wxhexeditor
 # 2. extract wxHexEditor
 7z x wxhexeditor.7z
 
+# 3. the following shared library is needed
+sudo apt install libwxgtk3.0-gtk3-0v5
+
 ```
 
 ## References
