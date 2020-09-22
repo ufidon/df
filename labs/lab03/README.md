@@ -11,7 +11,7 @@ course materials and references for its452
 **2. Tasks**
 1. (5%) Create an image of size 2MB.
 2. (5%) Mount the image on an loop device.
-3. (5%) Format the image with FAT12.
+3. (5%) Format the loop device with FAT12.
 4. (5%) Mount the loop device to an empty folder(mounting point) and create several folders and files inside
 5. (5%) Unmount the loop device from the mounting point.
 6. (25%) Open the loop device in wxHexEditor, then investigate it following [An overview of FAT12](./refs/AnoverviewofFAT12.pdf)
@@ -38,6 +38,7 @@ course materials and references for its452
 **4. Demo videos**
 
 * _2020 Fall_
+  * [Lab03 File System Overview And FAT Part 1](https://youtu.be/7PdyOSGOnBw)
 
 
 **5.References:**
