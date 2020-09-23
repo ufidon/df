@@ -6,6 +6,7 @@ course materials and references for its452
   * [Windows registry on Wikipedia](https://en.wikipedia.org/wiki/Windows_Registry)
   * [Windows registry on MSDN](https://docs.microsoft.com/en-us/windows/win32/sysinfo/registry)
   * [The Internal Structure of the Windows Registry](http://amnesia.gtisc.gatech.edu/~moyix/suzibandit.ltd.uk/MSc/)
+  * [A Windows Registry Dataset](./refs/cfreds2017winreg.pdf)
 * Tools
   * [Windows Sysinternals](https://docs.microsoft.com/en-us/sysinternals/)
     * [Regmon](https://docs.microsoft.com/en-us/sysinternals/downloads/regmon)
@@ -40,7 +41,8 @@ course materials and references for its452
   * [How to Delete Wireless Network Profiles in Windows 10 / 8 / 7](https://www.top-password.com/blog/delete-wireless-network-profiles-in-windows/)
   * [Find the Wireless Security Information (e.g., SSID, Network key, etc.) for Windows](https://support.brother.com/g/b/faqend.aspx?c=us&lang=en&prod=rj4250wbeus&faqid=faqp00100049_000)
   * [WifiInfoView](https://www.nirsoft.net/utils/wifi_information_view.html)
-
+  * [WiFi Related Registry Keys](./refs/RCMPEricRowe.pdf)
+  * [Wireless Networks and the Windows Registry - Just where has your computer been?](./refs/wirelessnetworkswindowsregistrycomputerbeen33659.pdf)
 * Cleaner
   * [Little Registry Cleaner](https://sourceforge.net/projects/littlecleaner/)
   * [BleachBit - Clean Your System and Free Disk Space](https://www.bleachbit.org/)
