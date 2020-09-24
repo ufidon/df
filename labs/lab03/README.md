@@ -16,6 +16,7 @@ course materials and references for its452
 5. (5%) Unmount the loop device from the mounting point.
 6. (25%) Open the loop device in wxHexEditor, then investigate it following [An overview of FAT12](./refs/AnoverviewofFAT12.pdf)
 7. (50%) Following [MANUAL ANALYSIS OF THE FAT12 FILE SYSTEM](./refs/fat12manualanalysis.pdf), manually analyze the [image](./refs/fat12.img)
+8. FYI: [images.7z](.refs/../refs/images.7z) contains a demo image generated from task 1-5 and the image for task 7.
 
 **3. Tools**
 
@@ -38,8 +39,8 @@ course materials and references for its452
 **4. Demo videos**
 
 * _2020 Fall_
-  * [Lab03 File System Overview And FAT Part 1](https://youtu.be/7PdyOSGOnBw)
-
+  * [Lab03 File System Overview And FAT Part 1(lecture)](https://youtu.be/7PdyOSGOnBw)
+  * [Lab03 File System Overview And FAT Part 2(lab)](https://youtu.be/jM_mNZ35ABo)
 
 **5.References:**
 * [NTFS vs FAT vs exFAT](https://www.ntfs.com/ntfs_vs_fat.htm)
