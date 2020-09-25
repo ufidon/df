@@ -90,6 +90,33 @@ Tools
   * [List of data-erasing software](https://en.wikipedia.org/wiki/List_of_data-erasing_software)
 * [Anti-computer forensics](https://en.wikipedia.org/wiki/Anti-computer_forensics)
 
+### Finding the artifacts of interesting
+* _commands and tools_
+  * [find](https://en.wikipedia.org/wiki/Find_(Unix))
+  * [strings](https://en.wikipedia.org/wiki/Strings_(Unix))
+  * [grep](https://en.wikipedia.org/wiki/Grep)
+  * [sleuthkit & autopsy](https://www.sleuthkit.org/)
+    * [autopsy](http://sleuthkit.org/autopsy/docs/user-docs/)
+    * [sleuthkit](http://wiki.sleuthkit.org/index.php?title=Help_Documents)
+  * [Bulk extractor](https://forensicswiki.xyz/wiki/index.php?title=Bulk_extractor)
+    * [bulk_extractor](https://github.com/simsong/bulk_extractor)
+    * [bulk_extractor](http://downloads.digitalcorpora.org/downloads/bulk_extractor/)
+* [Regular expression](https://en.wikipedia.org/wiki/Regular_expression)
+  * [Comparison of regular-expression engines](https://en.wikipedia.org/wiki/Comparison_of_regular-expression_engines)
+    * [Matching wildcards](https://en.wikipedia.org/wiki/Matching_wildcards)
+    * [Perl Compatible Regular Expressions](https://en.wikipedia.org/wiki/Perl_Compatible_Regular_Expressions)
+  * _online tools_
+    * [regex 101](https://regex101.com/)
+    * [regexr](https://regexr.com/)
+  * _theory_
+    * [Induction of regular languages](https://en.wikipedia.org/wiki/Induction_of_regular_languages)
+    * [Extended Backus–Naur form](https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form)
+    * [Regular tree grammar](https://en.wikipedia.org/wiki/Regular_tree_grammar)
+    * [Thompson's construction](https://en.wikipedia.org/wiki/Thompson%27s_construction)
+  * _tips_
+    * [regexone](https://regexone.com/)
+    * [Regular-Expressions.info](https://www.regular-expressions.info/)
+
 ### Encrypted disks
 * [Disk encryption](https://en.wikipedia.org/wiki/Disk_encryption)
   * [Disk encryption theory](https://en.wikipedia.org/wiki/Disk_encryption_theory)
