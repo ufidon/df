@@ -6,11 +6,11 @@ course materials and references for its452
 **1. Objectives**
 
 1. Get familiar with sleuthkit and autopsy
-2. Analyze [dftt images](http://dftt.sourceforge.net/) with sleuthkit and autopsy
+2. Analyze [dftt images](http://dftt.sourceforge.net/) with sleuthkit or autopsy or wxHexEditor.
 
 **2. Tasks**
 
-* (10% for each image)Analyzing [dftt images](http://dftt.sourceforge.net/) 1-10.
+* (10% for each image)Analyzing [dftt images](http://dftt.sourceforge.net/) 1-10. All questions for each image must be answered. The webpage of each image needs to be read carefully.
 
 **3. Tools**
 
