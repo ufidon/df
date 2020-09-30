@@ -11,6 +11,7 @@ course materials and references for its452
 **2. Tasks**
 
 * (10% for each image)Analyzing [dftt images](http://dftt.sourceforge.net/) 1-10. All questions for each image must be answered. The webpage of each image needs to be read carefully.
+* You may do this lab on Windows or MacOS or Ubuntu, choose your convenient operating system.
 
 **3. Tools**
 
