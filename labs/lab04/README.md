@@ -38,7 +38,7 @@ course materials and references for its452
 **4. Demo videos**
 
 * _2020 Fall_
-
+  * [Filesystem Analysis With Sleuthkit and Autopsy](https://youtu.be/NX1m1Uqu-DY)
 
 **5. References**
 * [Open Source Digital Forensics: The Sleuth Kit & Autopsy](http://sleuthkit.org/)
