@@ -82,6 +82,15 @@ Tools
   * [Mounting Windows Partitions](https://help.ubuntu.com/community/MountingWindowsPartitions)
   * [Mount USB](https://help.ubuntu.com/community/Mount/USB)
   * [mount](https://en.wikipedia.org/wiki/Mount_(Unix)mount)
+  * [List of optical disc authoring software](https://en.wikipedia.org/wiki/List_of_optical_disc_authoring_software)
+    * [WinCDEmu](https://wincdemu.sysprogs.org/)
+  * _Windows_
+    * [ODIN - Free Disk Imager](http://odin-win.sourceforge.net/)
+    * [ImDisk Toolkit](https://sourceforge.net/projects/imdisk-toolkit/)
+    * [ext2read](https://github.com/mregmi/ext2read)
+    * [OSFMount](https://www.osforensics.com/tools/mount-disk-images.html)
+    * [Virtual CloneDrive](https://www.elby.ch/en/products/vcd.html)
+    * [Storage in Powershell](https://docs.microsoft.com/en-us/powershell/module/storage)
 * _tips_
   * [How to rename partitions?](https://askubuntu.com/questions/276911/how-to-rename-partitions)
   * [creating partitioned virtual disk images](https://adayinthelifeof.nl/2011/10/11/creating-partitioned-virtual-disk-images/)
