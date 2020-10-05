@@ -156,6 +156,13 @@ Tools
   * [Open Bitlocker Drive on Linux](https://www.ceos3c.com/open-source/open-bitlocker-drive-linux/)
   * [How To Mount BitLocker-Encrypted Windows Partitions On Linux](https://www.linuxuprising.com/2019/04/how-to-mount-bitlocker-encrypted.html)
 
+### Disk editor
+* [Disk editor](https://en.wikipedia.org/wiki/Disk_editor)
+* [Hex_editor](https://en.wikipedia.org/wiki/Hex_editor)
+* [Comparison of hex editors](https://en.wikipedia.org/wiki/Comparison_of_hex_editors)
+  * [wxhexeditor](https://www.wxhexeditor.org/)
+  * [HxD](https://en.wikipedia.org/wiki/HxD)
+
 ### Misc
 * [How to install an Operating System (OS) using the GUID Disk Partition Table (GPT)](./refs/gptwhitepaper11.pdf)
 * [Advanced Configuration and Power Interface (ACPI) Specification](./refs/ACPI63finalJan30.pdf)
