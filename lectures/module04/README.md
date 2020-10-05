@@ -6,6 +6,9 @@ course materials and references for its452
   * [Windows registry on Wikipedia](https://en.wikipedia.org/wiki/Windows_Registry)
   * [Windows registry on MSDN](https://docs.microsoft.com/en-us/windows/win32/sysinfo/registry)
   * [The Internal Structure of the Windows Registry](http://amnesia.gtisc.gatech.edu/~moyix/suzibandit.ltd.uk/MSc/)
+  * _Windows registry hive file format_
+    * [Windows registry file format specification](https://github.com/msuhanov/regf/blob/master/Windows%20registry%20file%20format%20specification.md)
+  * 
   * [A Windows Registry Dataset](./refs/cfreds2017winreg.pdf)
 * Tools
   * [Windows Sysinternals](https://docs.microsoft.com/en-us/sysinternals/)
@@ -20,6 +23,11 @@ course materials and references for its452
   * [regslack](https://github.com/keydet89/Tools/blob/master/source/regslack.pl)
   * [RegRipper](https://github.com/keydet89/RegRipper2.8)
   * [Parse::Win32Registry](https://metacpan.org/pod/Parse::Win32Registry)
+  * [Eric zimmerman's tools](https://ericzimmerman.github.io/)
+    * Registry Explorer/RECmd
+  * [NirSoft](https://www.nirsoft.net/)
+    * [OfflineRegistryView](https://www.nirsoft.net/utils/offline_registry_view.html)
+  * [hivexsh - Windows Registry hive shell](https://libguestfs.org/hivexsh.1.html)
 * Tips
   * [Windows 10 Registry Tweaks](https://technicalustad.com/a-complete-guide-to-windows-10-registry-tweaks/)
   * [Collection of Windows 10 Hidden Secret Registry Tweaks](https://www.askvg.com/collection-of-windows-10-hidden-secret-registry-tweaks/)
@@ -27,6 +35,7 @@ course materials and references for its452
   * [The 50 Best Registry Hacks that Make Windows Better](https://www.howtogeek.com/howto/37920/the-50-best-registry-hacks-that-make-windows-better/)
   * [Windows registry information for advanced users](https://support.microsoft.com/en-us/help/256986/windows-registry-information-for-advanced-users)
   * [Complete Windows Registry Information](http://www.woodsmall.com/registry.htm)
+  * [Digging Up the Past: Windows Registry Forensics Revisited](https://www.fireeye.com/blog/threat-research/2019/01/digging-up-the-past-windows-registry-forensics-revisited.html)
 * USB Devices
   * [USB Device Registry Entries](https://docs.microsoft.com/en-us/windows-hardware/drivers/usbcon/usb-device-specific-registry-settings)
   * [USBDeview](https://www.nirsoft.net/utils/usb_devices_view.html)
