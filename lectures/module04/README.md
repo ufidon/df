@@ -36,15 +36,24 @@ course materials and references for its452
   * [Windows registry information for advanced users](https://support.microsoft.com/en-us/help/256986/windows-registry-information-for-advanced-users)
   * [Complete Windows Registry Information](http://www.woodsmall.com/registry.htm)
   * [Digging Up the Past: Windows Registry Forensics Revisited](https://www.fireeye.com/blog/threat-research/2019/01/digging-up-the-past-windows-registry-forensics-revisited.html)
+* Autorun
+  * _Concepts_
+    * [AutoRun](https://en.wikipedia.org/wiki/AutoRun)
+    * [Autorun.inf](https://en.wikipedia.org/wiki/Autorun.inf)
+    * [AutoPlay](https://en.wikipedia.org/wiki/AutoPlay)
+  * _Tools_
+    * [Autoruns for Windows](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns)
+    * [Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)
+    * [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
 * USB Devices
   * [USB Device Registry Entries](https://docs.microsoft.com/en-us/windows-hardware/drivers/usbcon/usb-device-specific-registry-settings)
   * [USBDeview](https://www.nirsoft.net/utils/usb_devices_view.html)
   * [USB Device Tree Viewer](https://www.uwe-sieber.de/usbtreeview_e.html)
-  * [USBView](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/usbview)
+  * [USBView (Old name: UVCView)](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/usbview)
   * [USB Storage Device Forensics for Windows 10](https://www.researchgate.net/publication/318514858_USB_Storage_Device_Forensics_for_Windows_10)
 
 * WiFi
-  * [WiFi Related Registry Keys](http://www.iccyber.org/2009/uploads/trabalhos/20090925/RCMP_Eric_Rowe.pdf)
+  * [WiFi Related Registry Keys](./refs/RCMPEricRowe.pdf)
   * [Wireless Networks and the Windows Registry - Just where has your computer been?](https://www.sans.org/reading-room/whitepapers/forensics/wireless-networks-windows-registry-computer-been-33659)
   * [How to manually delete WiFi Network Profile in Windows 10/8.1](https://www.thewindowsclub.com/delete-wifi-network-profile-windows)
   * [How to Delete Wireless Network Profiles in Windows 10 / 8 / 7](https://www.top-password.com/blog/delete-wireless-network-profiles-in-windows/)
@@ -52,6 +61,10 @@ course materials and references for its452
   * [WifiInfoView](https://www.nirsoft.net/utils/wifi_information_view.html)
   * [WiFi Related Registry Keys](./refs/RCMPEricRowe.pdf)
   * [Wireless Networks and the Windows Registry - Just where has your computer been?](./refs/wirelessnetworkswindowsregistrycomputerbeen33659.pdf)
+* Timestamp
+  * [Timestamp](https://en.wikipedia.org/wiki/Timestamp)
+  * [dcode](https://www.digital-detective.net/dcode/)
+  * [timestampconvert online](https://www.timestampconvert.com/)
 * Cleaner
   * [Little Registry Cleaner](https://sourceforge.net/projects/littlecleaner/)
   * [BleachBit - Clean Your System and Free Disk Space](https://www.bleachbit.org/)
