@@ -28,6 +28,8 @@ course materials and references for its452
 * [Zimmerman's Registy Explorer](https://ericzimmerman.github.io)
 * [Dcode](https://www.digital-detective.net/dcode/)
 * [epochconverter](https://www.epochconverter.com/)
+* [QuickHash](https://www.quickhash-gui.org/downloads/)
+* [ophcrack](https://ophcrack.sourceforge.io/)
 
 **4. References**
 * [Dr. Schwarz's ppt on registry analysis](http://www.cse.scu.edu/~tschwarz/COEN252_13/PPT/Windows%20Registry%20Analysis.pptx)
