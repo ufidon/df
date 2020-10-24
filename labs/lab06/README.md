@@ -49,4 +49,4 @@ The 6 questions listed in the challenge above.
   * [Honeynet Scan of the Month](https://www.honeynet.org/challenges/scan-of-the-month-archive/)
 * [Stegdetect on Github](https://github.com/abeluck/stegdetect)
   * [outguess](https://web.archive.org/web/20150419030527/http://www.outguess.org/)
-* [invisiblesecrets trial](http://www.invisiblesecrets.com/download.html)
+* [invisiblesecrets trial](https://www.east-tec.com/invisiblesecrets/download/)
