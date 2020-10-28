@@ -1,7 +1,7 @@
 # its452
 course materials and references for its452
 
-## lab06: Steganography
+## lab06: Data Recovery and Steganography
 
 **1. Task**
 
@@ -42,7 +42,7 @@ The 6 questions listed in the challenge above.
 6. (5%) Bonus Question: Explain the process that was performed so that there were no entries in the root directory and File Allocation Table (FAT), yet the contents of each file remained in the data area?"
 
 **4. Demo video**
-
+* [Data Recovery and Steganography](https://youtu.be/JNzTI1TKuEU)
 
 **5. References:**
 * [Honeynet Scan of the Month 26 with TSK](http://www.sleuthkit.org/case/sotm_26/index.html)
