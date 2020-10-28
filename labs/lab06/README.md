@@ -47,6 +47,7 @@ The 6 questions listed in the challenge above.
 **5. References:**
 * [Honeynet Scan of the Month 26 with TSK](http://www.sleuthkit.org/case/sotm_26/index.html)
   * [Honeynet Scan of the Month](https://www.honeynet.org/challenges/scan-of-the-month-archive/)
+* [QuickHash GUI](https://www.quickhash-gui.org/)
 * [Stegdetect on Github](https://github.com/abeluck/stegdetect)
   * [outguess](https://web.archive.org/web/20150419030527/http://www.outguess.org/)
 * [invisiblesecrets trial](https://www.east-tec.com/invisiblesecrets/download/)
