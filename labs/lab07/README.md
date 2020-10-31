@@ -10,9 +10,9 @@ course materials and references for its452
 
 **2. Tasks**
 Complete all tasks listed in California Cybersecurity Institute (CCI)'s digital forensics training 
-1. [Chapter 13: Installed Programs](https://cci.calpoly.edu/2019-digital-forensics-downloads)
-2. [Chapter 6: Recent Files](https://cci.calpoly.edu/2019-digital-forensics-downloads)
-3. [Chapter 7: Recycle Bin](https://cci.calpoly.edu/2019-digital-forensics-downloads)
+1. (30%) [Chapter 13: Installed Programs](https://cci.calpoly.edu/2019-digital-forensics-downloads)
+2. (55%) [Chapter 6: Recent Files](https://cci.calpoly.edu/2019-digital-forensics-downloads)
+3. (15%) [Chapter 7: Recycle Bin](https://cci.calpoly.edu/2019-digital-forensics-downloads)
 
 **References**
 * [Windows forensics by Calpoly](https://cci.calpoly.edu/2019-digital-forensics-downloads)
