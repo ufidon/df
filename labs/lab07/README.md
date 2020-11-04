@@ -6,13 +6,15 @@ course materials and references for its452
 **1. Objectives**
 
 1. Get familiar with Windows installed programs, recent files and recycle bin
-2. Analyze the Windows installed programs, recent files and recycle bin in the [laptop image](https://drive.google.com/file/d/1ayGZIIm91I2GS_8rNUGxc7lIOkn2CbW0/view) provided by [California Cybersecurity Institute](https://cci.calpoly.edu/2019-digital-forensics-downloads) with appropriate digital forensics tools.
+2. Analyze the Windows installed programs, recent files and recycle bin in the [laptop image](https://drive.google.com/file/d/1ayGZIIm91I2GS_8rNUGxc7lIOkn2CbW0/view) provided by [California Cybersecurity Institute](https://cci.calpoly.edu/2019-digital-forensics-downloads) with appropriate digital forensics tools such as Autopsy, Dcode, Registry explorer, JumpLister, etc.
 
 **2. Tasks**
 Complete all tasks listed in California Cybersecurity Institute (CCI)'s digital forensics training 
 1. (30%) [Chapter 13: Installed Programs](https://cci.calpoly.edu/2019-digital-forensics-downloads)
 2. (55%) [Chapter 6: Recent Files](https://cci.calpoly.edu/2019-digital-forensics-downloads)
 3. (15%) [Chapter 7: Recycle Bin](https://cci.calpoly.edu/2019-digital-forensics-downloads)
+
+Since the documents are so clear and easy to follow, so there is no demo video.
 
 **References**
 * [Windows forensics by Calpoly](https://cci.calpoly.edu/2019-digital-forensics-downloads)
@@ -23,7 +25,7 @@ Complete all tasks listed in California Cybersecurity Institute (CCI)'s digital 
     * [Sleuthkit & Autopsy](https://www.sleuthkit.org/)
     * [Zimmerman tools](https://ericzimmerman.github.io/)
   * _event_
-    * [Evtx Explorer/EvtxECmd](https://ericzimmerman.github.io/#!index.md)
+    * [Evtx Explorer/EvtxECmd](https://ericzimmerman.github.io/)
     * [Windows Event Log Viewer](https://tzworks.net/prototype_page.php?proto_id=4)
     * [MyEventViewer ](https://www.nirsoft.net/utils/my_event_viewer.html)
   * _prefetch_
@@ -36,6 +38,8 @@ Complete all tasks listed in California Cybersecurity Institute (CCI)'s digital 
     * [Jump List Parser](https://tzworks.net/download_links.php)
   * _recycle bin_
     * [Rifiuti2 - Windows Recycle Bin Analysis Tool](https://abelcheung.github.io/rifiuti2/)
+  * _registry_
+    * [Registry Explorer](https://ericzimmerman.github.io/)
   * _printing_
     * [SPL - Windows Spool File Format](https://www.undocprint.org/formats/winspool/spl)
   * _PE_
