@@ -18,7 +18,7 @@ Write a report about the process you complete the tasks in the description, key 
 * (5%)Identification: identify the infected system
 * (5%)Image Acquisition: acquiring the disk image/partition of the infected system
 * (20%)Data Recovery: try to recover all deleted or corrupted data from the disk image
-* (30%)Analysis: analyse the disk image for collecting evidences
+* (30%)Analysis: analyze the disk image for collecting evidences
 * (10%)Reporting: write a report about the evidences collected, tools used, techniques exploited, timeline of the evidences and reconstruct the crime scene if possible.
 
 
