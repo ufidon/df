@@ -2,15 +2,15 @@
 course materials and references for its452
 
 ## Module06: Operating systems
-* [Operating system](https://en.wikipedia.org/wiki/Operating\_system)
-  * [List of operating systems](https://en.wikipedia.org/wiki/List\_of\_operating\_system)
+* [Operating system](https://en.wikipedia.org/wiki/Operating_system)
+  * [List of operating systems](https://en.wikipedia.org/wiki/List_of_operating_system)
   * [Comparison of operating systems](https://en.wikipedia.org/wiki/Comparison_of_operating_systems)
 
 ### Windows
 **Concepts**
 
 * Windows operating systems
-  * [Microsoft Windows](https://en.wikipedia.org/wiki/Microsoft\_Windows)
+  * [Microsoft Windows](https://en.wikipedia.org/wiki/Microsoft_Windows)
 * Event logs
   * [List of Microsoft Windows components](https://en.wikipedia.org/wiki/List_of_Microsoft_Windows_components)
     * [Microsoft Management Console](https://en.wikipedia.org/wiki/Microsoft_Management_Console)
@@ -59,14 +59,14 @@ course materials and references for its452
     * [Forensic Analysis of System Restore Points in Microsoft Windows XP](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.84.4474&rep=rep1&type=pdf)
   * [Windows Preinstallation Environment](https://en.wikipedia.org/wiki/Windows_Preinstallation_Environment)
 * File trash
-  * [Trash (computing)](https://en.wikipedia.org/wiki/Trash\_\(computing\))
+  * [Trash (computing)](https://en.wikipedia.org/wiki/Trash_\(computing\))
     * [System.Shell.RecycleBin object](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/system-shell-recyclebin)
     * [Examining the Windows 10 Recycle Bin](https://www.blackbagtech.com/blog/examining-the-windows-10-recycle-bin/)
     * [Undelete and the Recycle Bin in Windows](https://www.ccleaner.com/docs/recuva/technical-information/undelete-and-the-recycle-bin-in-windows)
     * [Where is the Windows 10 recycle bin?](https://www.techspot.com/guides/1640-windows-recycle-bin/)
     * [Files Sent to The Recycle Bin: How to View, Restore or Delete Them Permanently](https://hetmanrecovery.com/recovery_news/where-to-store-how-to-view-and-find-deleted-files-in-the-recycle-bin.htm)
     * [Windows Forensics: analysis of Recycle bin artifacts](https://www.andreafortuna.org/2019/09/26/windows-forensics-analysis-of-recycle-bin-artifacts/)
-  * [File Explorer](https://en.wikipedia.org/wiki/File\_Explorer)
+  * [File Explorer](https://en.wikipedia.org/wiki/File_Explorer)
 * Printer track
   * [Print Spooler](https://docs.microsoft.com/en-us/windows/win32/printdocs/print-spooler)
     * [Clear Print Queue In Windows 10, 8, 7](https://www.techsupportall.com/solved-how-to-clean-printer-spool-queue-clean-print-spool-fixit/)
@@ -124,57 +124,52 @@ course materials and references for its452
 
 
 ### Linux
-**Concepts**
-* _Boot_
-  * [Computer booting](https://en.wikipedia.org/wiki/Booting)
-  * [Linux startup process](https://en.wikipedia.org/wiki/Linux\_startup\_process)
-  * [Unified Extensible Firmware Interface](https://en.wikipedia.org/wiki/Unified\_Extensible\_Firmware\_Interface) 
-* _Daemon_
-  * [Daemon](https://en.wikipedia.org/wiki/Daemon\_\(computing\))
-  * [List of Unix daemons](https://en.wikipedia.org/wiki/List\_of\_Unix\_daemons)
-  * [Systemd](https://en.wikipedia.org/wiki/Systemd)
-* _File system layout_
-  * [ Filesystem Hierarchy Standard (FHS)](https://en.wikipedia.org/wiki/Filesystem\_Hierarchy\_Standard)
-  * [FHS specification](https://refspecs.linuxfoundation.org/fhs.shtml)
-  * [File system permissions](https://en.wikipedia.org/wiki/File\_system\_permissions)
-  * [File attribute](https://en.wikipedia.org/wiki/File\_attribute)
-  * [Hidden file and hidden directory](https://en.wikipedia.org/wiki/Hidden\_file\_and\_hidden\_directory)
-* _Users_
-  * [Computer users](https://en.wikipedia.org/wiki/User\_\(computing\))
-  * [User identifier](https://en.wikipedia.org/wiki/User\_identifier)
-  * [Group identifier](https://en.wikipedia.org/wiki/Group\_identifier)
-  * [passwd](https://en.wikipedia.org/wiki/Passwd)
-  * [Understanding /etc/passwd File Format](https://www.cyberciti.biz/faq/understanding-etcpasswd-file-format/)
-  * [Understanding /etc/group File](https://www.cyberciti.biz/faq/understanding-etcgroup-file/)
-  * [Understanding /etc/shadow file](https://www.cyberciti.biz/faq/understanding-etcshadow-file/)
-  * [Home directory](https://en.wikipedia.org/wiki/Home\_directory)
-  * [Shell history](https://en.wikipedia.org/wiki/History\_\(command\))
-  * [Secure Shell](https://en.wikipedia.org/wiki/Secure\_Shell)
-  * [GNOME](https://en.wikipedia.org/wiki/GNOME)
-  * [About GNOME .gconf, .gnome2 etc. directories in $HOME](https://unix.stackexchange.com/questions/21086/about-gnome-gconf-gnome2-etc-directories-in-home)
-* _Logs_
-  * [Linux Log Files](https://help.ubuntu.com/community/LinuxLogFiles)
-  * [Syslog](https://en.wikipedia.org/wiki/Syslog)
-* _Tasks_
-  * [Cron How to](https://help.ubuntu.com/community/CronHowto)
-
-
-**Cases**
-  * [How To Set up SSH Keys on a Linux / Unix System](https://www.cyberciti.biz/faq/how-to-set-up-ssh-keys-on-linux-unix/)
-  * [How to Schedule Job on Linux using Cron, Anacron and at Commands ](https://linoxide.com/linux-how-to/schedule-job-linux-commands/)
-
-**Tools**
-  * [Text Processing](https://learnbyexample.gitbooks.io/linux-command-line/content/Text\_Processing.html)
-
-**Images**
-  * [Linux LEO](https://linuxleo.com/)
-  * [Digital Corpora disk images](https://digitalcorpora.org/corpora/disk-images)
-
-**References**
-  * [Linux man pages online](http://man7.org/linux/man-pages/)
+**Overview**
   * [Linux Forensics for non Linux folks](http://www.deer-run.com/~hal/LinuxForensicsForNon-LinuxFolks.pdf)
   * [Forensic Artifacts in Modern Linux Systems](https://www.digitalforensics.ch/nikkel18.pdf)
   * [Dead Linux Machines Do Tell Tales](https://www.sans.org/reading-room/whitepapers/forensics/dead-linux-machines-tales-34227)
+**Concepts**
+* _Boot_
+  * [Computer booting](https://en.wikipedia.org/wiki/Booting)
+    * [Linux startup process](https://en.wikipedia.org/wiki/Linux_startup_process)
+  * [Unified Extensible Firmware Interface](https://en.wikipedia.org/wiki/Unified_Extensible_Firmware_Interface) 
+* _Daemon_
+  * [Daemon](https://en.wikipedia.org/wiki/Daemon_\(computing\))
+    * [List of Unix daemons](https://en.wikipedia.org/wiki/List_of_Unix_daemons)
+    * [Systemd](https://en.wikipedia.org/wiki/Systemd)
+* _File system layout_
+  * [Filesystem Hierarchy Standard (FHS)](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
+    * [FHS specification](https://refspecs.linuxfoundation.org/fhs.shtml)
+  * [File system permissions](https://en.wikipedia.org/wiki/File_system_permissions)
+    * [File attribute](https://en.wikipedia.org/wiki/File_attribute)
+  * [Hidden file and hidden directory](https://en.wikipedia.org/wiki/Hidden_file_and_hidden_directory)
+* _Users_
+  * [Computer users](https://en.wikipedia.org/wiki/User_\(computing\))
+    * [User identifier](https://en.wikipedia.org/wiki/User_identifier)
+    * [Group identifier](https://en.wikipedia.org/wiki/Group_identifier)
+  * [passwd](https://en.wikipedia.org/wiki/Passwd)
+    * [Understanding /etc/passwd File Format](https://www.cyberciti.biz/faq/understanding-etcpasswd-file-format/)
+    * [Understanding /etc/group File](https://www.cyberciti.biz/faq/understanding-etcgroup-file/)
+    * [Understanding /etc/shadow file](https://www.cyberciti.biz/faq/understanding-etcshadow-file/)
+  * [Home directory](https://en.wikipedia.org/wiki/Home_directory)
+  * [Shell history](https://en.wikipedia.org/wiki/History_\(command\))
+    * [Secure Shell](https://en.wikipedia.org/wiki/Secure_Shell)
+    * [How To Set up SSH Keys on a Linux / Unix System](https://www.cyberciti.biz/faq/how-to-set-up-ssh-keys-on-linux-unix/)
+  * [GNOME](https://en.wikipedia.org/wiki/GNOME)
+    * [About GNOME .gconf, .gnome2 etc. directories in $HOME](https://unix.stackexchange.com/questions/21086/about-gnome-gconf-gnome2-etc-directories-in-home)
+* _Logs_
+  * [Linux Log Files](https://help.ubuntu.com/community/LinuxLogFiles)
+    * [Syslog](https://en.wikipedia.org/wiki/Syslog)
+* _Tasks_
+  * [Cron How to](https://help.ubuntu.com/community/CronHowto)
+  * [How to Schedule Job on Linux using Cron, Anacron and at Commands ](https://linoxide.com/linux-how-to/schedule-job-linux-commands/)
+**Tools**
+  * [Text Processing](https://learnbyexample.gitbooks.io/linux-command-line/content/Text_Processing.html)
+**Images**
+  * [Linux LEO](https://linuxleo.com/)
+  * [Digital Corpora disk images](https://digitalcorpora.org/corpora/disk-images)
+**References**
+  * [Linux man pages online](http://man7.org/linux/man-pages/)
 
 ### Mobile operating system
   * _overview_
@@ -183,14 +178,14 @@ course materials and references for its452
     * [Android forensics by Calpoly](https://cci.calpoly.edu/2019-digital-forensics-downloads)
     * [Open Source Mobile Device Forensics](https://www.nist.gov/sites/default/files/documents/forensics/6-Mahalik_OSMF.pdf)
   * _concepts_
-    * [Mobile device forensics](https://en.wikipedia.org/wiki/Mobile\_device\_forensics)
-    * [Mobile phone](https://en.wikipedia.org/wiki/Mobile\_phone)
+    * [Mobile device forensics](https://en.wikipedia.org/wiki/Mobile_device_forensics)
+    * [Mobile phone](https://en.wikipedia.org/wiki/Mobile_phone)
     * [Smartphone](https://en.wikipedia.org/wiki/Smartphone)
-    * [Comparison of smartphones](https://en.wikipedia.org/wiki/Comparison\_of\_smartphones)
+    * [Comparison of smartphones](https://en.wikipedia.org/wiki/Comparison_of_smartphones)
     * [Mobile operating system](https://en.wikipedia.org/wiki/Mobile_operating_system)
       * [Comparison of mobile operating systems](https://en.wikipedia.org/wiki/Comparison_of_mobile_operating_systems)
-    * [Wikipedia: Cellular network](https://en.wikipedia.org/wiki/Cellular\_network)
-    * [Wikipedia: SIM Card](https://en.wikipedia.org/wiki/SIM\_card)
+    * [Wikipedia: Cellular network](https://en.wikipedia.org/wiki/Cellular_network)
+    * [Wikipedia: SIM Card](https://en.wikipedia.org/wiki/SIM_card)
   * _tools_
     * [Cellebrite – UFED](https://www.cfreds.nist.gov/mobile/cellebrite/index.htm)
     * [libimobiledevice - iOS communicator](http://www.libimobiledevice.org/)
@@ -214,9 +209,9 @@ course materials and references for its452
 ### Embedded systems
 * _overview_
 * _concepts_
-  * [Embedded system](https://en.wikipedia.org/wiki/Embedded\_system)
-  * [Real-time operating system](https://en.wikipedia.org/wiki/Real-time\_operating\_system)
-    * [Comparison of real-time operating systems](https://en.wikipedia.org/wiki/Comparison\_of\_real-time\_operating\_systems)
+  * [Embedded system](https://en.wikipedia.org/wiki/Embedded_system)
+  * [Real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating_system)
+    * [Comparison of real-time operating systems](https://en.wikipedia.org/wiki/Comparison_of_real-time_operating_systems)
 * _tools_
 * _cases_
 
