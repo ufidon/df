@@ -124,11 +124,11 @@ course materials and references for its452
 
 
 ### Linux
-**Overview**
+* **Overview**
   * [Linux Forensics for non Linux folks](http://www.deer-run.com/~hal/LinuxForensicsForNon-LinuxFolks.pdf)
   * [Forensic Artifacts in Modern Linux Systems](https://www.digitalforensics.ch/nikkel18.pdf)
   * [Dead Linux Machines Do Tell Tales](https://www.sans.org/reading-room/whitepapers/forensics/dead-linux-machines-tales-34227)
-**Concepts**
+* **Concepts**
 * _Boot_
   * [Computer booting](https://en.wikipedia.org/wiki/Booting)
     * [Linux startup process](https://en.wikipedia.org/wiki/Linux_startup_process)
@@ -163,12 +163,12 @@ course materials and references for its452
 * _Tasks_
   * [Cron How to](https://help.ubuntu.com/community/CronHowto)
   * [How to Schedule Job on Linux using Cron, Anacron and at Commands ](https://linoxide.com/linux-how-to/schedule-job-linux-commands/)
-**Tools**
+* **Tools**
   * [Text Processing](https://learnbyexample.gitbooks.io/linux-command-line/content/Text_Processing.html)
-**Images**
+* **Images**
   * [Linux LEO](https://linuxleo.com/)
   * [Digital Corpora disk images](https://digitalcorpora.org/corpora/disk-images)
-**References**
+* **References**
   * [Linux man pages online](http://man7.org/linux/man-pages/)
 
 ### Mobile operating system
