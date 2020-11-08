@@ -124,11 +124,10 @@ course materials and references for its452
 
 
 ### Linux
-* **Overview**
+* _Overview_
   * [Linux Forensics for non Linux folks](http://www.deer-run.com/~hal/LinuxForensicsForNon-LinuxFolks.pdf)
   * [Forensic Artifacts in Modern Linux Systems](https://www.digitalforensics.ch/nikkel18.pdf)
   * [Dead Linux Machines Do Tell Tales](https://www.sans.org/reading-room/whitepapers/forensics/dead-linux-machines-tales-34227)
-* **Concepts**
 * _Boot_
   * [Computer booting](https://en.wikipedia.org/wiki/Booting)
     * [Linux startup process](https://en.wikipedia.org/wiki/Linux_startup_process)
@@ -163,12 +162,12 @@ course materials and references for its452
 * _Tasks_
   * [Cron How to](https://help.ubuntu.com/community/CronHowto)
   * [How to Schedule Job on Linux using Cron, Anacron and at Commands ](https://linoxide.com/linux-how-to/schedule-job-linux-commands/)
-* **Tools**
+* *Tools*
   * [Text Processing](https://learnbyexample.gitbooks.io/linux-command-line/content/Text_Processing.html)
-* **Images**
+* *Images*
   * [Linux LEO](https://linuxleo.com/)
   * [Digital Corpora disk images](https://digitalcorpora.org/corpora/disk-images)
-* **References**
+* *References*
   * [Linux man pages online](http://man7.org/linux/man-pages/)
 
 ### Mobile operating system
@@ -179,13 +178,13 @@ course materials and references for its452
     * [Open Source Mobile Device Forensics](https://www.nist.gov/sites/default/files/documents/forensics/6-Mahalik_OSMF.pdf)
   * _concepts_
     * [Mobile device forensics](https://en.wikipedia.org/wiki/Mobile_device_forensics)
-    * [Mobile phone](https://en.wikipedia.org/wiki/Mobile_phone)
-    * [Smartphone](https://en.wikipedia.org/wiki/Smartphone)
-    * [Comparison of smartphones](https://en.wikipedia.org/wiki/Comparison_of_smartphones)
-    * [Mobile operating system](https://en.wikipedia.org/wiki/Mobile_operating_system)
-      * [Comparison of mobile operating systems](https://en.wikipedia.org/wiki/Comparison_of_mobile_operating_systems)
-    * [Wikipedia: Cellular network](https://en.wikipedia.org/wiki/Cellular_network)
-    * [Wikipedia: SIM Card](https://en.wikipedia.org/wiki/SIM_card)
+      * [Mobile phone](https://en.wikipedia.org/wiki/Mobile_phone)
+        * [Smartphone](https://en.wikipedia.org/wiki/Smartphone)
+        * [Comparison of smartphones](https://en.wikipedia.org/wiki/Comparison_of_smartphones)
+      * [Mobile operating system](https://en.wikipedia.org/wiki/Mobile_operating_system)
+        * [Comparison of mobile operating systems](https://en.wikipedia.org/wiki/Comparison_of_mobile_operating_systems)
+      * [Wikipedia: Cellular network](https://en.wikipedia.org/wiki/Cellular_network)
+      * [Wikipedia: SIM Card](https://en.wikipedia.org/wiki/SIM_card)
   * _tools_
     * [Cellebrite – UFED](https://www.cfreds.nist.gov/mobile/cellebrite/index.htm)
     * [libimobiledevice - iOS communicator](http://www.libimobiledevice.org/)
