@@ -45,6 +45,9 @@ course materials and references for its452
       * [BPF](https://www.kernel.org/doc/html/latest/bpf/index.html)
       * [Wireshark CaptureFilters](https://gitlab.com/wireshark/wireshark/-/wikis/CaptureFilters)
       * [Wireshark DisplayFilters](https://gitlab.com/wireshark/wireshark/-/wikis/DisplayFilters)
+  * [Transport Layer Security (TLS)](https://en.wikipedia.org/wiki/Transport_Layer_Security)
+    * [Datagram Transport Layer Security (DTLS)](https://en.wikipedia.org/wiki/Datagram_Transport_Layer_Security)
+    * [TLS by Wireshark](https://gitlab.com/wireshark/wireshark/-/wikis/TLS)
   * [Network monitoring](https://en.wikipedia.org/wiki/Network_monitoring)
     * [Comparison of network monitoring systems](https://en.wikipedia.org/wiki/Comparison_of_network_monitoring_systems)
       * [DShield](https://en.wikipedia.org/wiki/DShield)
@@ -60,6 +63,11 @@ course materials and references for its452
     * [winpcap](https://www.winpcap.org)
   * [How to install Wireshark on Ubuntu 18.04 / Ubuntu 16.04 Desktop](https://computingforgeeks.com/how-to-install-wireshark-on-ubuntu-18-04-ubuntu-16-04-desktop/)
     * [Wireshark wikiuniversity](https://en.wikiversity.org/wiki/Wireshark)
+  * [How to Decrypt SSL with Wireshark – HTTPS Decryption Guide](https://www.comparitech.com/net-admin/decrypt-ssl-with-wireshark/)
+    * [Wireshark Tutorial: Decrypting HTTPS Traffic](https://unit42.paloaltonetworks.com/wireshark-tutorial-decrypting-https-traffic/)
+    * [Wireshark and SSL/TLS Master Secrets](https://docs.mitmproxy.org/stable/howto-wireshark-tls/)
+      * [mitmproxy is a free and open source interactive HTTPS proxy](https://mitmproxy.org/)
+        * [code](https://github.com/mitmproxy/mitmproxy)
 
 ### Network applications: browsers, websites, emails, online storage, message apps 
 * **Browsers**
