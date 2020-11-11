@@ -9,9 +9,10 @@ course materials and references for its452 labs
 * lab05: Windows registry
 * lab06: Steganography
 * lab07: Windows recent activities
+* proj2: Network traffic analysis
 * lab08: Linux 
 * lab09: Internet artifacts
 * lab10: Android
-* proj2: Network traffic analysis
+
 
 
