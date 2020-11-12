@@ -15,7 +15,16 @@ Write a report about the process you complete the tasks in the description, key 
 * (2%)Image Acquisition: acquiring the disk image/partition of the infected system
   * Verify the integrity of the given small image file and three network traces.
 * (18%)Data Recovery and analysis: try to recover all deleted or corrupted data from the disk image, then analyze the data for collecting evidences
-* (40%)Network traffic analysis: analyze the network traces for collecting evidences
+  * (8%) File carving
+  * (10%) Zip file password cracking
+* (20%)Network traffic analysis: analyze the network traces for collecting evidences
+  * (5%) Telnet/FTP/HTTP login credential extraction
+  * (5%) FTP file extraction
+  * (5%) HTTP file extraction
+  * (5%) exe file analysis
+* (20%) Steganography analysis:
+  * (10%) detection and 
+  * (10%) hidden image extraction 
 * (10%)Reporting: write a report about the evidences collected, tools used, techniques exploited, timeline of the evidences and reconstruct the crime scene if possible.
 
 **(28%)3. Review questions**
@@ -31,13 +40,15 @@ The 7 questions (each 4%) listed in the challenge above.
 7. Is there any evidence that connects the USB key and the network traces?  If so, what?
 
 **4. Demo video**
-
+* [File carving and Network Trace Forensics](https://youtu.be/vsohB6N0gMY)
 
 **5. References:**
 * [Password cracking](https://en.wikipedia.org/wiki/Password_cracking)
   * [fcrackzip](http://manpages.ubuntu.com/manpages/bionic/man1/fcrackzip.1.html)
+  * [zip-cracker](https://github.com/lamanihani/zip-cracker)
   * [cRARk](http://www.crark.net/)
   * [the hydra](https://github.com/vanhauser-thc/thc-hydra)
+  * [Nirsoft password recovery tools](https://www.nirsoft.net/password_recovery_tools.html)
   * [Leaked passwords](https://wiki.skullsecurity.org/index.php?title=Passwords)
     * [List of the most common passwords](https://en.wikipedia.org/wiki/List_of_the_most_common_passwords)
 * [Exporting Objects from HTTP Traffic](https://unit42.paloaltonetworks.com/using-wireshark-exporting-objects-from-a-pcap/)
