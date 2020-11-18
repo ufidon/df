@@ -21,6 +21,10 @@ Complete the following tasks/sections listed in the guide [the Law Enforcement a
 
 *Since the documents are so clear and easy to follow, so there is no demo video.*
 
+Hint video is provided:
+
+* [Linux forensics](https://youtu.be/GWTducJotGE)
+
 **(10%)3. Review questions**
 * Explain the advantages of using Linux over Windows as a computer digital platform.
 
