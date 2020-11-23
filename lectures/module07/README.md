@@ -75,28 +75,27 @@ course materials and references for its452
     * [AN OVERVIEW OF WEB BROWSER FORENSICS](https://www.digitalforensics.com/blog/an-overview-of-web-browser-forensics/)
   *  _concepts_
     * [Web browser](https://en.wikipedia.org/wiki/Web_browser) 
-    * [List of web browsers](https://en.wikipedia.org/wiki/List_of_web_browsers)
-    * [Comparison of web browsers](https://en.wikipedia.org/wiki/Comparison_of_web_browsers)
+      * [List of web browsers](https://en.wikipedia.org/wiki/List_of_web_browsers)
+      * [Comparison of web browsers](https://en.wikipedia.org/wiki/Comparison_of_web_browsers)
+      * [Firefox](https://en.wikipedia.org/wiki/Firefox)
+      * [Google Chrome](https://en.wikipedia.org/wiki/Google_Chrome)
+      * [Microsoft Edge](https://en.wikipedia.org/wiki/Microsoft_Edge)
+      * [Internet Explorer](https://en.wikipedia.org/wiki/Internet_Explorer)
     * [Browser extension](https://en.wikipedia.org/wiki/Browser_extension)
     * [Bookmark (digital)](https://en.wikipedia.org/wiki/Bookmark_\(digital\))
     * [HTTP cookie](https://en.wikipedia.org/wiki/HTTP_cookie)
-    * [Web storage](https://en.wikipedia.org/wiki/Web_storage)
+      * [Web storage](https://en.wikipedia.org/wiki/Web_storage)
     * [Web browsing history](https://en.wikipedia.org/wiki/Web_browsing_history)
-    * [Wikipedia:Database download](https://en.wikipedia.org/wiki/Wikipedia:Database_download)
-    * [Firefox](https://en.wikipedia.org/wiki/Firefox)
-    * [Google Chrome](https://en.wikipedia.org/wiki/Google_Chrome)
-    * [Microsoft Edge](https://en.wikipedia.org/wiki/Microsoft_Edge)
-    * [Internet Explorer](https://en.wikipedia.org/wiki/Internet_Explorer)
-    * [SQLite](https://en.wikipedia.org/wiki/SQLite)
+      * [SQLite](https://en.wikipedia.org/wiki/SQLite)
   * _tools_
     * [Web Artifact Analysis in Autopsy](https://www.sleuthkit.org/autopsy/web_artifacts.php)
-    * [pasco](http://manpages.ubuntu.com/manpages/bionic/en/man1/pasco.1.html)
-    * [msiecfinfo](http://manpages.ubuntu.com/manpages/bionic/man1/msiecfinfo.1.html)
-    * [msiecfexport](http://manpages.ubuntu.com/manpages/bionic/en/man1/msiecfexport.1.html)
-    * [Win32::UrlCache](https://metacpan.org/pod/Win32::UrlCache)
-    * [SQLiteStudio](https://sqlitestudio.pl/index.rvt)
-    * [DB Browser for SQLite](https://sqlitebrowser.org/)
-    * [GNUstep](https://en.wikipedia.org/wiki/GNUstep)
+      * [pasco](http://manpages.ubuntu.com/manpages/bionic/en/man1/pasco.1.html)
+      * [msiecfinfo](http://manpages.ubuntu.com/manpages/bionic/man1/msiecfinfo.1.html)
+      * [msiecfexport](http://manpages.ubuntu.com/manpages/bionic/en/man1/msiecfexport.1.html)
+      * [Win32::UrlCache](https://metacpan.org/pod/Win32::UrlCache)
+      * [SQLiteStudio](https://sqlitestudio.pl/index.rvt)
+      * [DB Browser for SQLite](https://sqlitebrowser.org/)
+      * [GNUstep](https://en.wikipedia.org/wiki/GNUstep)
   * _cases_
     * [Change the Default Location for Saving Internet Explorer Favorites](https://www.howtogeek.com/115412/change-the-default-location-for-saving-internet-explorer-favorites/)
   
@@ -105,12 +104,12 @@ course materials and references for its452
   * _overview_
     * [Email Forensics](https://fenix.tecnico.ulisboa.pt/downloadFile/1970943312267438/csf-13.pdf)
   * _concepts_
-    * [Email on Wikipedia](https://en.wikipedia.org/wiki/Email)
-    * [Comparison of email clients](https://en.wikipedia.org/wiki/Comparison_of_email_clients)
+    * [Email](https://en.wikipedia.org/wiki/Email)
+      * [Comparison of email clients](https://en.wikipedia.org/wiki/Comparison_of_email_clients)
     * [Personal Storage Table](https://en.wikipedia.org/wiki/Personal_Storage_Table)
-    * [Outlook Personal Folders (.pst) File Format](https://docs.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
+      * [Outlook Personal Folders (.pst) File Format](https://docs.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
     * [Mbox](https://en.wikipedia.org/wiki/Mbox)
-    * [Maildir](https://en.wikipedia.org/wiki/Maildir)
+      * [Maildir](https://en.wikipedia.org/wiki/Maildir)
   * _tools_
     * [pst2gmail](https://github.com/yiqideren/pst2gmail)
     * [libpff](https://github.com/libyal/libpff)
@@ -125,10 +124,10 @@ course materials and references for its452
     * [Cloud Storage Forensics - book](https://www.sciencedirect.com/book/9780124199705/cloud-storage-forensics/)
   * _concepts_
     * [Cloud storage](https://en.wikipedia.org/wiki/Cloud_storage)
-    * [Comparison of online backup services](https://en.wikipedia.org/wiki/Comparison_of_online_backup_services)
-    * [File sharing](https://en.wikipedia.org/wiki/File_sharing)
-    * [Comparison of file-sharing applications](https://en.wikipedia.org/wiki/Comparison_of_file-sharing_applications)
-    * [File hosting service](https://en.wikipedia.org/wiki/File_hosting_service)
+      * [Comparison of online backup services](https://en.wikipedia.org/wiki/Comparison_of_online_backup_services)
+      * [File sharing](https://en.wikipedia.org/wiki/File_sharing)
+      * [Comparison of file-sharing applications](https://en.wikipedia.org/wiki/Comparison_of_file-sharing_applications)
+      * [File hosting service](https://en.wikipedia.org/wiki/File_hosting_service)
   * _tools_
   * _cases_
 
@@ -138,7 +137,7 @@ course materials and references for its452
   * _concepts_
     * [Messaging apps](https://en.wikipedia.org/wiki/Messaging_apps)
     * [Instant messaging](https://en.wikipedia.org/wiki/Instant_messaging)
-    * [Comparison of instant messaging clients](https://en.wikipedia.org/wiki/Comparison_of_instant_messaging_clients)
+      * [Comparison of instant messaging clients](https://en.wikipedia.org/wiki/Comparison_of_instant_messaging_clients)
   * _tools_
   * _cases_
 
