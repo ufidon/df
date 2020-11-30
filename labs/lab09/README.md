@@ -16,6 +16,10 @@ Complete all tasks listed in California Cybersecurity Institute (CCI)'s digital 
 
 Since the documents are so clear and easy to follow, so there is no demo video.
 
+A hint video does be provided:
+* [Network apps digital forensics](https://youtu.be/aH7T1CpXUH4)
+
+
 **References**
 * [Windows forensics by Calpoly](https://cci.calpoly.edu/2019-digital-forensics-downloads)
 
