@@ -19,8 +19,11 @@ Complete all tasks listed in California Cybersecurity Institute (CCI)'s digital 
 
 Since the documents are so clear and easy to follow, so there is no demo video.
 
+A hint video does be provided:
+* [Android forensics](https://youtu.be/uhPNt_jr-AA)
+
 **References**
 * [Android forensics by Calpoly](https://cci.calpoly.edu/2019-digital-forensics-downloads)
 
 **Tools**
-* UFED reader integrated in the image
+* UFED reader integrated in the image archive
