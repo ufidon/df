@@ -4,7 +4,9 @@ course materials and references for its452
 ## lab01: Build environments for computer forensics
 * Create virtual machines
 * Setup Forensics Tools
-* *Rule of thumb to choose software: always choose the lastest and STABLE version*
+* *Rule of thumb to choose software: always choose the latest and STABLE version*
+
+**You don't need a Windows server if your computer OS is Windows, you may install the forensics tools on the host OS**
 
 ## NAT network and VM settings
 * NAT network settings:
@@ -137,8 +139,10 @@ BEViewer
 * (10%) Install [Bulk extractor](https://github.com/simsong/bulk\_extractor). BEViewer also provides a User Interface for launching bulk_extractor scans, it is packaged with bulk_extractor. 
 
 ## Demo video:
-* [Build a digital forensic platform with Ubuntu 20.04](https://youtu.be/vU9Yqfh6PUE)
-* [Build a digital forensic platform with Windows server 2019](https://youtu.be/iVIQ1JGI8nQ)
+* Fall 2021
+* Fall 2020
+  * [Build a digital forensic platform with Ubuntu 20.04](https://youtu.be/vU9Yqfh6PUE)
+  * [Build a digital forensic platform with Windows server 2019](https://youtu.be/iVIQ1JGI8nQ)
 
 
 ## References:
