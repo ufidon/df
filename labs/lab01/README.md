@@ -77,6 +77,11 @@ JAVA_HOME="/home/$USER/.sdkman/candidates/java/current"
 export JAVA_HOME
 chmod +x unix_setup.sh
 ./unix_setup.sh
+
+# 2021 Fall, first time run autopsy
+./bin/autopsy --nosplash
+
+# later run autopsy
 ./bin/autopsy
 ```
 
@@ -136,10 +141,15 @@ BEViewer
 * Create a Virtual Machine with *6GB memory/200GB disk* in VirtualBox for installing this Windows server
 * Install the Windows Server for a free trial
 * (10%) Install Sleuth Kit & Autopsy
-* (10%) Install [Bulk extractor](https://github.com/simsong/bulk\_extractor). BEViewer also provides a User Interface for launching bulk_extractor scans, it is packaged with bulk_extractor. 
+* (10%) Install [Bulk extractor](https://github.com/simsong/bulk\_extractor). BEViewer also provides a User Interface for launching bulk_extractor scans, it is packaged with bulk_extractor. BEViewer needs to be built under Linux, so we can copy it from Ubuntu, it is attached [here](./tools/BEViewer.jar) for your convenience.
+
+```batch
+java  -jar c:\dftools\BEViewer.jar
+```
 
 ## Demo video:
 * Fall 2021
+  * [Build two digital forensic platforms](https://youtu.be/rDyYYTl9X-0)
   * [Install Windows server 2022 on VirtualBox 6](https://youtu.be/qZ-ak9cl7GU)
 * Fall 2020
   * [Build a digital forensic platform with Ubuntu 20.04](https://youtu.be/vU9Yqfh6PUE)
