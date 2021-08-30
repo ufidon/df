@@ -4,7 +4,7 @@ course materials and references for its452
 ## proj1: Overview of a complete forensic process
 
 **0. Warmup reading**
-* [A brief digital forensics cycle by Linux and Disk Forensics](./refs/Acompleteforensicprocesspdf)
+* [A brief digital forensics cycle by Linux and Disk Forensics](./refs/Acompleteforensicprocess.pdf)
 
 
 **1. Task**
@@ -14,7 +14,7 @@ Complete the challenge posted on Honeynet: [scan 24](http://www.honeynet.onofri.
 
 **2. Report**
 
-Write a report about the process you complete the tasks in the description, key screen snapshots are needed as evidences. It is suggested to organized the contents following the steps described in [A brief digital forensics cycle by Linux and Disk Forensics](./refs/Acompleteforensicprocesspdf):
+Write a report about the process you complete the tasks in the description, key screen snapshots are needed as evidences. It is suggested to organized the contents following the steps described in [A brief digital forensics cycle by Linux and Disk Forensics](./refs/Acompleteforensicprocess.pdf):
 * (5%)Identification: identify the infected system
 * (5%)Image Acquisition: acquiring the disk image/partition of the infected system
 * (20%)Data Recovery: try to recover all deleted or corrupted data from the disk image
