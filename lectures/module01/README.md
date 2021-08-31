@@ -79,6 +79,7 @@ course materials and references for its452
   * [GPS Coordinates](https://www.gps-coordinates.net/)
 * _Tools_
   * [Hex editor](https://en.wikipedia.org/wiki/Hex\_editor)
+    * [wxHexEditor](../module02/wxhexeditor.md)
   * [Hachoir - binary file viewer](https://hachoir.readthedocs.io/en/latest/index.html)
     * [hachoir source code](https://github.com/vstinner/hachoir)
     * [hachoir](https://pypi.org/project/hachoir/)
@@ -93,7 +94,6 @@ course materials and references for its452
     * [ffmpeg](https://ffmpeg.org/)
   * [quicktime-utils](http://libquicktime.sourceforge.net/)
   * [MKVToolNix](https://mkvtoolnix.download/)
-
 
 
 ## A complete forensic process with open-source forensics tools
