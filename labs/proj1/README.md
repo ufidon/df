@@ -21,6 +21,30 @@ Write a report about the process you complete the tasks in the description, key 
 * (30%)Analysis: analyze the disk image for collecting evidences
 * (10%)Reporting: write a report about the evidences collected, tools used, techniques exploited, timeline of the evidences and reconstruct the crime scene if possible.
 
+Quick way to recover corrupted files using foremost, inside the folder containing the image, open a terminal, run the following commands:
+
+```bash
+# 1. recover corrupted files
+foremost -orecovers -i image
+
+# 2. use a file manager such as caja or command tree to explore the recovered files
+recovers/
+├── audit.txt
+├── jpg
+│   └── 00000073.jpg
+├── ole
+│   └── 00000033.ole
+└── zip
+    └── 00000104.zip
+
+# 3. use stirngs command to find the password for the zip file
+strings image > allstrings.txt
+
+# 4. use a text editor or less command check the content of allstrings.txt
+# you should be able to notice a line "pw=goodtimes", so "goodtimes" is likely to be the password, try it
+less allstrings.txt
+
+```
 
 **(30%)3. Review questions**
 
