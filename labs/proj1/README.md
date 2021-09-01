@@ -28,6 +28,8 @@ Quick way to recover corrupted files using foremost, inside the folder containin
 foremost -orecovers -i image
 
 # 2. use a file manager such as caja or command tree to explore the recovered files
+tree recovers # got the following output
+
 recovers/
 ├── audit.txt
 ├── jpg
@@ -43,6 +45,9 @@ strings image > allstrings.txt
 # 4. use a text editor or less command check the content of allstrings.txt
 # you should be able to notice a line "pw=goodtimes", so "goodtimes" is likely to be the password, try it
 less allstrings.txt
+
+# 5. check the ole file with command file, its type can be detected automatically by caja, and shows an Microsoft Word icon, which can be opened with LibreOffice Writer
+file recovers/ole/00000033.ole
 
 ```
 
