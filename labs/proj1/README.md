@@ -46,7 +46,17 @@ strings image > allstrings.txt
 # you should be able to notice a line "pw=goodtimes", so "goodtimes" is likely to be the password, try it
 less allstrings.txt
 
-# 5. check the ole file with command file, its type can be detected automatically by caja, and shows an Microsoft Word icon, which can be opened with LibreOffice Writer
+# you may right-click the zip file then choose extract here or use 7z to extract it
+7z x recovers/zip/00000104.zip
+
+# a xls file will be extracted, you may use file command to determine its type,
+# its type can be detected automatically by caja, and shows an Microsoft Exel icon, 
+# which can be opened with LibreOffice calc, just double-click it to open it
+file  "recovers/zip/Scheduled Visits.xls"
+
+# 5. check the ole file with command file, its type can be detected automatically
+# by caja, and shows an Microsoft Word icon, 
+# which can be opened with LibreOffice Writer, just double-click it to open it
 file recovers/ole/00000033.ole
 
 ```
