@@ -101,6 +101,8 @@ sudo make install
 ### (20%)Install [Bulk extractor](http://downloads.digitalcorpora.org/downloads/bulk_extractor/)
 Run the following commands to install [bulk extractor](https://github.com/simsong/bulk_extractor):
 
+If the official repository does not work, please use this [link](https://drive.google.com/file/d/17DcYmxEIcvzG87kafg1IGIwnROzXCVt2/view?usp=sharing) to download a worked copy.
+
 ```bash
 sdk default java 11.0.8.fx-librca
 sudo apt install libssl-dev libxml2-dev flex
