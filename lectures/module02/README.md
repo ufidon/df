@@ -51,6 +51,8 @@ course materials and references for its452
     * _Disk controller interface_
       * [Block (data storage)](https://en.wikipedia.org/wiki/Block_(data_storage))
       * [Cylinder-head-sector](https://en.wikipedia.org/wiki/Cylinder-head-sector)
+        * [Media Size Calculator](http://www.csgnetwork.com/mediasizecalc.html)
+        * [CHS Calculator](https://www.deathwombat.com/diskgeometry.html)
       * [Logical block addressing](https://en.wikipedia.org/wiki/Logical_block_addressing)
       * [Zone bit recording](https://en.wikipedia.org/wiki/Zone_bit_recording)
     * _Disk and partition imaging_
