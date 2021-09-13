@@ -26,7 +26,7 @@
 # 4. https://en.wikipedia.org/wiki/Logical_block_addressing#CHS_conversion
 
 # Note: #header=#tracks, it is unneccesary to be an even number
-def iCHSCapacity(C,H,S,B=512):
+def iCHSCapacity(B=512):
     C = int(input('Enter the total number of cylinders:'))
     H = int(input('Enter the total number of heads(#heads per cylinder):'))
     S = int(input('Enter the number of sectors per track:'))
@@ -36,7 +36,7 @@ def iCHSCapacity(C,H,S,B=512):
     print("Disk capacity: ", capacity)
     return capacity
 
-def iLBACapacity(L,B=512):
+def iLBACapacity(B=512):
     L = int(input('Enter the maximum logical block address:'))
     B = int(input('Enter the number of bytes per sector:'))
 
@@ -45,7 +45,7 @@ def iLBACapacity(L,B=512):
     return capacity
 
 # Note: sector # starts from 1, but head# or track# and cylinder# starts from 0
-def ichs2lba(c,h,s,C,H,S): 
+def ichs2lba(): 
     C = int(input('Enter the total number of cylinders:'))
     H = int(input('Enter the total number of heads(#heads per cylinder):'))
     S = int(input('Enter the number of sectors per track:'))
@@ -57,7 +57,7 @@ def ichs2lba(c,h,s,C,H,S):
     return l
 
 # Note: sector # start from 1, but head# or track# and cylinder# starts from 0
-def ilba2chs(l,H,S):
+def ilba2chs():
     H = int(input('Enter the total number of heads(#heads per cylinder):'))
     S = int(input('Enter the number of sectors per track:'))
     l = int(input('Enter the logical block address:'))
