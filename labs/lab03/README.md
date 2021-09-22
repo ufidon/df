@@ -53,5 +53,9 @@ course materials and references for its452
 * [mount single partition from image of entire disk device](https://askubuntu.com/questions/69363/mount-single-partition-from-image-of-entire-disk-device)
 * [creating partitioned virtual disk images](https://adayinthelifeof.nl/2011/10/11/creating-partitioned-virtual-disk-images/)
 * [VBox: How to use a raw disk image file in VirtualBox](https://lira.epac.to/MyPublicWiki/VBox:%20How%20to%20use%20a%20raw%20disk%20image%20file%20in%20VirtualBox.html)
+* **image tools**
+  * [ImDisk Toolkits](https://sourceforge.net/projects/imdisk-toolkit/)
+  * [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/)
+  * [HxC Floppy Drive Emulator](https://sourceforge.net/projects/hxcfloppyemu/)
 
 
