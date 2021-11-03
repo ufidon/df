@@ -57,6 +57,8 @@ The 7 questions (each 4%) listed in the challenge above.
   * [Nirsoft password recovery tools](https://www.nirsoft.net/password_recovery_tools.html)
   * [Leaked passwords](https://wiki.skullsecurity.org/index.php?title=Passwords)
     * [List of the most common passwords](https://en.wikipedia.org/wiki/List_of_the_most_common_passwords)
+* [Decrypt HTTPS](https://www.comparitech.com/net-admin/decrypt-ssl-with-wireshark/)
+  * [Decrypt TLS](https://wiki.wireshark.org/TLS)
 * [Exporting Objects from HTTP Traffic](https://unit42.paloaltonetworks.com/using-wireshark-exporting-objects-from-a-pcap/)
   * [how to extract ftp files from wireshark packet?](https://shankaraman.wordpress.com/tag/how-to-extract-ftp-files-from-wireshark-packet/)
   * [Four ways to extract files from pcaps](https://www.rubyguides.com/2012/01/four-ways-to-extract-files-from-pcaps/)
