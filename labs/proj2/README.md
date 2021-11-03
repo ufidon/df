@@ -41,6 +41,7 @@ The 7 questions (each 4%) listed in the challenge above.
 
 **4. Demo video**
 * [File carving and Network Trace Forensics](https://youtu.be/vsohB6N0gMY)
+* [Crack Zip archives with John the Ripper](https://youtu.be/DXemSkufVLY)
 
 **5. References:**
 * [Password cracking](https://en.wikipedia.org/wiki/Password_cracking)
