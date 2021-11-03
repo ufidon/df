@@ -44,6 +44,11 @@ The 7 questions (each 4%) listed in the challenge above.
 
 **5. References:**
 * [Password cracking](https://en.wikipedia.org/wiki/Password_cracking)
+  * [john the ripper](https://www.openwall.com/john/)
+    * [Common Password List ( rockyou.txt )](https://www.kaggle.com/wjburns/common-password-list-rockyoutxt)
+    * [How-to - Cracking ZIP and RAR protected files with John the Ripper](https://dfir.science/2014/07/how-to-cracking-zip-and-rar-protected.html)
+    * [How to crack zip password on Kali Linux](https://linuxconfig.org/how-to-crack-zip-password-on-kali-linux)
+    * [How to hack passwords with john the ripper (linux, zip, rar, hash)](https://www.hackeracademy.org/how-to-hack-passwords-with-john-the-ripper-linux-zip-rar-hash/)
   * [fcrackzip](http://manpages.ubuntu.com/manpages/bionic/man1/fcrackzip.1.html)
   * [zip-cracker](https://github.com/lamanihani/zip-cracker)
   * [cRARk](http://www.crark.net/)
