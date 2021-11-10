@@ -9,7 +9,7 @@ course materials and references for its452
 2. Following the guide [the Law Enforcement and Forensic Examiner's Introduction to Linux](https://linuxleo.com/), a Comprehensive Practitioner's guide to Linux as a Computer Forensic Platform,  analyze the Linux images provide by [Linux LEO](https://linuxleo.com/) with appropriate digital forensics tools.
 
 **2. Tasks**
-Complete the following tasks/sections listed in the guide [the Law Enforcement and Forensic Examiner's Introduction to Linux](./guide/LinuxLeo494.pdf):
+Complete the following tasks/sections listed in the guide [the Law Enforcement and Forensic Examiner's Introduction to Linux](./guide/LinuxLeo4.95.1.pdf):
 
 1. (10%)8.7.2 libewf and ewfacquire
 2. (10%)8.12.7  Mounting Multi Partition Images with losetup -P
