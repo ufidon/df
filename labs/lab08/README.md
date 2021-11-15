@@ -26,7 +26,7 @@ Hint video is provided:
 * [Linux forensics](https://youtu.be/GWTducJotGE)
 
 **(10%)3. Review questions**
-* Explain the advantages of using Linux over Windows as a computer digital platform.
+* Explain the advantages of using Linux over Windows as a computer digital forensics platform.
 
 **Reference**
 * [Linux LEO](https://linuxleo.com/)
